@@ -12,7 +12,7 @@
 - Run `python compare-changes.py`.
 
 # Testing
-- Only tested on **OS X Yosemite 10.10.5**.
+- Only tested on **OS X Yosemite 10.10.5** and **Python 2.7.13**.
 
 # Copyright
 - Please feel free to copy and mofidy this code.

@@ -35,8 +35,28 @@ def main(argv):
 					output_size.append(size_change)
 					output_name.append(name1)
 	
+	total_size_growed = 0
+
 	for (i, num) in sorted(enumerate(output_size), key = lambda x:x[1], reverse = True):
-		print "%d	%s" % (output_size[i], output_name[i])
+		if not is_substring(output_name[i], output_name):
+			if output_size[i] > 0:
+				print "%s%d	%s" % ("+", output_size[i], output_name[i])
+			else:
+				print "%d	%s" % (output_size[i], output_name[i])
+			total_size_growed += output_size[i]
+
+	print "\n\n-----------------------------"
+	if total_size_growed > 0:
+		print "Total size increased: %d" % total_size_growed
+	else:
+		print "Total size decreased: %d" % -total_size_growed
+	print "-----------------------------"
+
+def is_substring(s, str_list):
+	for sp in str_list:
+		if (s in sp) and (s != sp):
+			return True
+	return False
 
 if __name__ == "__main__":
    main(sys.argv[1:])
