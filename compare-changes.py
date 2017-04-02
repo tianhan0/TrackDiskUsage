@@ -8,8 +8,8 @@ def main(argv):
 		if file.endswith(".tsv"):
 			file_list.append(file)
 
-	tsvin1 = csv.reader(open(file_list[len(file_list) - 2],'rb'), delimiter='\t')
-	tsvin2 = csv.reader(open(file_list[len(file_list) - 1],'rb'), delimiter='\t')
+	tsvin1 = csv.reader(open(file_list[len(file_list) - 2],'rb'), delimiter='\t') # old
+	tsvin2 = csv.reader(open(file_list[len(file_list) - 1],'rb'), delimiter='\t') # new
 	
 	list1 = []
 	list2 = []
@@ -34,6 +34,12 @@ def main(argv):
 					# print "%d	%s" % (size_change, name1)
 					output_size.append(size_change)
 					output_name.append(name1)
+
+	for (name2, size2) in list2:
+		if not (name2, size2) in list1:
+			if not name2 in output_name:
+				output_size.append(size2)
+				output_name.append(name2)
 	
 	total_size_growed = 0
 
