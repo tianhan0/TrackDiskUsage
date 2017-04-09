@@ -47,7 +47,7 @@ def main(argv):
 		if not is_substring(output_name[i], output_name):
 			if output_size[i] > 0:
 				print "%s%d	%s" % ("+", output_size[i], output_name[i])
-			else:
+			elif output_size[i] < 0:
 				print "%d	%s" % (output_size[i], output_name[i])
 			total_size_growed += output_size[i]
 
