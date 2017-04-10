@@ -53,9 +53,9 @@ def main(argv):
 
 	print "\n\n-----------------------------"
 	if total_size_growed > 0:
-		print "Total size increased: %d" % total_size_growed
+		print "Total size increased (MB): %d" % total_size_growed
 	else:
-		print "Total size decreased: %d" % -total_size_growed
+		print "Total size decreased (MB): %d" % -total_size_growed
 	print "-----------------------------"
 
 def is_substring(s, str_list):
