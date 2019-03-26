@@ -8,6 +8,7 @@ def main(argv):
 		if file.endswith(".tsv"):
 			file_list.append(file)
 
+	file_list.sort()
 	tsvin1 = csv.reader(open(file_list[len(file_list) - 2],'rb'), delimiter='\t') # old
 	tsvin2 = csv.reader(open(file_list[len(file_list) - 1],'rb'), delimiter='\t') # new
 	
