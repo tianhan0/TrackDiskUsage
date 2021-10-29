@@ -1,0 +1,208 @@
++1950	./System/Volumes/Data/Users/tianhan
++452	./System/Volumes/Data/System/Library
++437	./Users/tianhan/Google Drive/CUBoulder/papers
++429	./Users/tianhan/Library/Caches/com.spotify.client
++381	./System/Library/Caches/com.apple.coresymbolicationd
++357	./Users/tianhan/dwhelper
++275	./Users/tianhan/Library/Application Support/Google
++149	./Users/tianhan/Library/Application Support/Slack
++86	./Users/tianhan/Library/Caches/Google
++85	./private/var/folders/gm/4hbx6y416bd_8mhqfj8hz8v40000gn
++85	./Users/tianhan/Library/Application Support/Code
++73	./System/Volumes/Data/Applications/ExpressVPN.app
++72	./Users/tianhan/Library/Containers/com.apple.Safari
++59	./Library/Logs/CrashReporter/CoreCapture/WiFi
++57	./System/Volumes/Data/Library/Logs
++55	./System/Volumes/Data/Applications/DjView.app
++53	./private/var/log/powermanagement
++50	./Users/tianhan/.vscode/extensions/redhat.java-0.80.0
++39	./System/Library/AssetsV2/com_apple_MobileAsset_LinguisticData/3b12fab909ea2e40b04c8a456a33cdd5718b2c69.asset
++32	./Library/Caches/com.apple.iconservices.store
++31	./System/Volumes/Data/Library/Caches
++31	./System/Volumes/Data/.fseventsd
++30	./Users/tianhan/Library/Containers/com.docker.docker
++29	./System/Volumes/Data/.Spotlight-V100/Store-V2
++19	./Users/tianhan/Library/Application Support/Firefox
++16	./Users/tianhan/Library/Caches/com.colliderli.iina
++15	./System/Library/AssetsV2/com_apple_MobileAsset_CoreSuggestions/fb8ddd6e42dd901f29a4d52121969faf497a2abb.asset
++13	./System/Volumes/Data/.DocumentRevisions-V100/db-V1
++11	./System/Library/AssetsV2/com_apple_MobileAsset_CoreSuggestions/d54fb0013b3a8d48375719d63200d3ca74197f54.asset
++9	./System/Volumes/Data/Applications/Stats.app
++8	./private/var/db/powerlog/Library
++8	./Applications/ExpressVPN.app/Contents/Resources/fonts
++7	./Users/tianhan/Google Drive/Kindle/CS
++7	./Users/tianhan/.vscode/extensions/vscjava.vscode-java-pack-0.17.0
++6	./Users/tianhan/Library/Application Support/Kindle
++6	./Users/tianhan/Library/Application Support/Adobe
++6	./Users/tianhan/Library/Containers/com.apple.geod
++5	./private/var/db/locationd/Library
++5	./System/Library/AssetsV2/com_apple_MobileAsset_PhishingImageClassifier2/58d95c5e0143db264f99c3dd4f0a764cc0b6fbb9.asset
++5	./Applications/Stats.app/Contents/Frameworks/Kit.framework
++4	./Users/tianhan/Google Drive/tianhans-papers-repo/meeting docs
++4	./private/var/db/diagnostics/Persist
++4	./private/var/protected/sfanalytics/FFFFEEEE-DDDD-CCCC-BBBB-AAAA00000059
++4	./private/var/db/uuidtext/D4
++4	./Users/tianhan/Documents/workspace/d1a-nsf-small
++4	./Applications/DjView.app/Contents/plugins/platforms
++4	./Applications/DjView.app/Contents/bin/platforms
++4	./Applications/DjView.app/Contents/MacOS/platforms
++3	./Users/tianhan/Library/Caches/GeoServices
++3	./Users/tianhan/Library/Containers/com.apple.weather.widget
++3	./Users/tianhan/Library/Messages
++3	./Users/tianhan/Library/Caches/com.adobe.Reader
++3	./Users/tianhan/Library/Accounts
++3	./System/Library/AssetsV2/com_apple_MobileAsset_phoneNumberResolver/f506d53ebd934d9ac2fa29e8b7b2257d42a15689.asset
++3	./Applications/DjView.app/Contents/share/doc
++2	./Users/tianhan/Library/Application Support/zoom.us
++2	./private/var/log/asl
++2	./Users/tianhan/Library/Containers/com.apple.iWork.Keynote
++2	./Users/tianhan/Library/Application Support/Knowledge
++2	./Users/tianhan/Library/Caches/com.apple.Spotlight
++2	./Users/tianhan/Library/Trial/v5
++2	./Users/tianhan/Library/HomeKit
++2	./Users/tianhan/Library/Caches/com.apple.transparencyd
++2	./System/Volumes/Data/Applications/Itsycal.app
++2	./private/var/db/uuidtext/10
++2	./Users/tianhan/Library/Containers/com.apple.CalendarAgent
++2	./Users/tianhan/Library/Caches/com.apple.AMPLibraryAgent
++2	./Applications/ExpressVPN.app/Contents/Resources/en.lproj
++2	./Applications/DjView.app/Contents/plugins/imageformats
++2	./Applications/DjView.app/Contents/bin/imageformats
++2	./Applications/DjView.app/Contents/MacOS/imageformats
++1	./System/Volumes/Data/Library/Application Support
++1	./Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework
++1	./Users/tianhan/Pictures/Photos Library.photoslibrary/resources
++1	./private/var/protected/trustd
++1	./private/var/db/SystemPolicyConfiguration
++1	./Users/tianhan/Library/Keychains/B8656EF3-B403-5ADB-8B91-31971DFBAED9
++1	./Users/tianhan/Google Drive/tianhans-papers-repo/Benno
++1	./private/var/folders/zz/zyxvpxvq6csfxvn_n00000b000002r
++1	./private/var/root/Library/Caches
++1	./private/var/audit
++1	./Users/tianhan/Library/Containers/com.apple.stocks.widget
++1	./Users/tianhan/Library/Assistant
++1	./private/var/protected/sfanalytics/FFFFEEEE-DDDD-CCCC-BBBB-AAAA000000CD
++1	./Users/tianhan/Library/SyncedPreferences/com.apple.kvs
++1	./Users/tianhan/Library/Application Support/com.apple.transparencyd
++1	./private/var/logs
++1	./Users/tianhan/Library/Caches/com.apple.ap.adprivacyd
++1	./Users/tianhan/Library/Caches/com.apple.akd
++1	./Users/tianhan/Library/Application Support/CallHistoryDB
++1	./Users/tianhan/Library/Application Support/Animoji
++1	./Users/tianhan/Library/Reminders/Container_v1
++1	./Users/tianhan/Library/Caches/com.apple.AppleMediaServicesUI
++1	./Users/tianhan/Library/Safari/LocalStorage
++1	./Users/tianhan/Library/Logs/DiagnosticReports
++1	./Users/tianhan/Library/Containers/com.apple.mediastream.mstreamd
++1	./Users/tianhan/Library/Containers/com.apple.mail
++1	./Users/tianhan/Library/Application Support/com.apple.ProtectedCloudStorage
++1	./Users/tianhan/Documents/workspace/thesis-proposal
++1	./System/Volumes/Update
++1	./Applications/Stats.app/Contents/Frameworks/Sensors.framework
++1	./Applications/Stats.app/Contents/Frameworks/Net.framework
++1	./Applications/Stats.app/Contents/Frameworks/GPU.framework
++1	./Applications/Stats.app/Contents/Frameworks/Fans.framework
++1	./Applications/Stats.app/Contents/Frameworks/Disk.framework
++1	./Applications/Stats.app/Contents/Frameworks/CPU.framework
++1	./Applications/Stats.app/Contents/Frameworks/Battery.framework
++1	./Applications/Itsycal.app/Contents/Frameworks/Sparkle.framework
++1	./private/var/spool/cups/tmp
++1	./private/etc/cups/certs
++1	./Users/tianhan/Library/Safari/Databases
++1	./Users/tianhan/Library/Mail/V8
++1	./Users/tianhan/Library/WebKit/com.teamviewer.TeamViewer
++1	./Users/tianhan/Library/Saved Application State/org.djvu.DjView.savedState
++1	./Users/tianhan/Library/LanguageModeling/nl-dynamic.lm
++1	./Users/tianhan/Library/Caches/com.teamviewer.TeamViewer
++1	./Users/tianhan/Library/Caches/com.mowglii.ItsycalApp
++1	./Users/tianhan/Library/Application Support/com.expressvpn.ExpressVPN
++1	./Users/tianhan/Library/Application Support/com.apple.voicememos
++1	./Users/tianhan/.vscode/extensions/mervin.markdown-formatter-0.9.6
++1	./Users/tianhan/.vscode/extensions/mervin.markdown-formatter-0.9.5
++1	./Users/tianhan/.docker/devenvironments
++1	./Users/tianhan/.config/expressvpn
++1	./System/Library/AssetsV2/com_apple_MobileAsset_LinguisticData/bdb634333627d24a13c20b35b5ae51a68abd4aff.asset
++1	./Library/Application Support/com.expressvpn.ExpressVPN/icons
++1	./Library/Application Support/com.expressvpn.ExpressVPN/data
++1	./Library/Application Support/com.expressvpn.ExpressVPN/certs
++1	./Applications/ExpressVPN.app/Contents/_CodeSignature
++1	./Applications/ExpressVPN.app/Contents/Resources/zh-Hant.lproj
++1	./Applications/ExpressVPN.app/Contents/Resources/zh-Hans.lproj
++1	./Applications/ExpressVPN.app/Contents/Resources/tr.lproj
++1	./Applications/ExpressVPN.app/Contents/Resources/th.lproj
++1	./Applications/ExpressVPN.app/Contents/Resources/sv.lproj
++1	./Applications/ExpressVPN.app/Contents/Resources/ru.lproj
++1	./Applications/ExpressVPN.app/Contents/Resources/pt.lproj
++1	./Applications/ExpressVPN.app/Contents/Resources/pl.lproj
++1	./Applications/ExpressVPN.app/Contents/Resources/no.lproj
++1	./Applications/ExpressVPN.app/Contents/Resources/nl.lproj
++1	./Applications/ExpressVPN.app/Contents/Resources/ko.lproj
++1	./Applications/ExpressVPN.app/Contents/Resources/ja.lproj
++1	./Applications/ExpressVPN.app/Contents/Resources/it.lproj
++1	./Applications/ExpressVPN.app/Contents/Resources/id.lproj
++1	./Applications/ExpressVPN.app/Contents/Resources/fr.lproj
++1	./Applications/ExpressVPN.app/Contents/Resources/fi.lproj
++1	./Applications/ExpressVPN.app/Contents/Resources/es.lproj
++1	./Applications/ExpressVPN.app/Contents/Resources/de.lproj
++1	./Applications/ExpressVPN.app/Contents/Resources/da.lproj
++1	./Applications/ExpressVPN.app/Contents/Resources/ExpressVPNSplitTunnel.kext
++1	./Applications/ExpressVPN.app/Contents/MacOS/ExpressVPN IKEv2.app
++1	./Applications/ExpressVPN.app/Contents/Library/LoginItems
++1	./Applications/ExpressVPN.app/Contents/Frameworks/usr
++1	./Applications/ExpressVPN.app/Contents/Frameworks/Sentry.framework
++1	./Applications/ExpressVPN.app/Contents/Frameworks/PureLayout.framework
++1	./Applications/ExpressVPN.app/Contents/Frameworks/CocoaLumberjack.framework
++1	./Applications/ExpressVPN.app/Contents/Frameworks/CocoaAsyncSocket.framework
++1	./Applications/DjView.app/Contents/share/man
++1	./Applications/DjView.app/Contents/share/djvu
++1	./Applications/DjView.app/Contents/plugins/styles
++1	./Applications/DjView.app/Contents/plugins/printsupport
++1	./Applications/DjView.app/Contents/lib/pkgconfig
++1	./Applications/DjView.app/Contents/include/libdjvu
++1	./Applications/DjView.app/Contents/bin/styles
++1	./Applications/DjView.app/Contents/bin/printsupport
++1	./Applications/DjView.app/Contents/Resources/zh_tw.lproj
++1	./Applications/DjView.app/Contents/Resources/zh_cn.lproj
++1	./Applications/DjView.app/Contents/Resources/uk.lproj
++1	./Applications/DjView.app/Contents/Resources/ru.lproj
++1	./Applications/DjView.app/Contents/Resources/fr.lproj
++1	./Applications/DjView.app/Contents/Resources/es.lproj
++1	./Applications/DjView.app/Contents/Resources/de.lproj
++1	./Applications/DjView.app/Contents/Resources/cs.lproj
++1	./Applications/DjView.app/Contents/MacOS/styles
++1	./Applications/DjView.app/Contents/MacOS/printsupport
++1	./Applications/DjView.app/Contents/Library/Spotlight
++1	./Applications/DjView.app/Contents/Library/QuickLook
+-1	./Users/tianhan/Library/Application Support/AddressBook
+-1	./Users/tianhan/Library/Application Support/BetterTouchTool
+-1	./private/var/protected/sfanalytics/FFFFEEEE-DDDD-CCCC-BBBB-AAAA0000011A
+-1	./Users/tianhan/Library/Caches/com.microsoft.autoupdate.fba
+-1	./Users/tianhan/Library/Containers/com.apple.iCal.CalendarWidgetExtension
+-1	./Library/Logs/DiagnosticReports
+-1	./Users/tianhan/Library/Suggestions/pending
+-1	./private/var/db/uuidtext/FD
+-1	./private/var/db/uuidtext/3E
+-2	./System/Volumes/Data/.DocumentRevisions-V100/.cs
+-2	./Users/tianhan/Library/Caches/com.apple.appstoreagent
+-2	./Users/tianhan/Library/Application Support/CloudDocs
+-2	./private/var/log/DiagnosticMessages
+-2	./private/var/db/uuidtext/79
+-2	./private/var/db/uuidtext/5D
+-3	./Users/tianhan/Library/Caches/Firefox
+-3	./Users/tianhan/Library/Calendars
+-3	./private/var/db/CoreDuet/People
+-3	./Users/tianhan/Library/Caches/com.apple.touristd
+-3	./Users/tianhan/Library/Caches/com.apple.itunescloudd
+-3	./private/var/db/uuidtext/25
+-4	./private/var/db/uuidtext/A2
+-7	./private/var/db/systemstats
+-7	./Users/tianhan/Library/Containers/com.apple.AppStore
+-10	./System/Volumes/Data/private/var
+-21	./private/var/db/diagnostics/Special
+-125	./Users/tianhan/Library/Containers/com.tencent.xinWeChat
+-141	./private/var/db/diagnostics/Signpost
+
+
+-----------------------------
+Total size increased (MB): 5278
+-----------------------------

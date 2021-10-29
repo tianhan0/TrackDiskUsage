@@ -1,0 +1,209 @@
++1143	./System/Volumes/Data/Users/tianhan
++1024	./System/Volumes/VM
++592	./Users/tianhan/Library/Caches/com.spotify.client
++227	./Users/tianhan/Library/Containers/com.tencent.xinWeChat
++191	./Users/tianhan/Google Drive/Job Application/technical interview
++163	./Users/tianhan/dwhelper
++155	./System/Volumes/Data/private/var
++140	./Users/tianhan/Library/Application Support/Slack
++138	./System/Volumes/Data/opt/homebrew
++118	./private/var/log/asl
++108	./Users/tianhan/.local/share/gem
++102	./Users/tianhan/Library/Application Support/Spotify
++93	./System/Volumes/Data/System/Library
++93	./opt/homebrew/Cellar/ruby/3.0.2
++78	./Users/tianhan/.vscode/extensions/ms-toolsai.jupyter-2021.8.1236758218
++76	./private/var/db/diagnostics/Signpost
++75	./Users/tianhan/.vscode/extensions/ms-python.python-2021.8.1147840270
++65	./Users/tianhan/Google Drive/Application and Documents/h1b
++64	./Users/tianhan/.vscode/extensions/ms-python.vscode-pylance-2021.8.2
++61	./System/Volumes/Data/Library/Logs
++61	./Library/Logs/CrashReporter/CoreCapture/WiFi
++59	./System/Volumes/Data/.fseventsd
++57	./System/Library/AssetsV2/com_apple_MobileAsset_LinguisticData/a6ea61915b6e6501246c8fab91509ad2f29b598c.asset
++52	./Users/tianhan/.vscode/extensions/james-yu.latex-workshop-8.20.2
++45	./Users/tianhan/Google Drive/Application and Documents/[archive]misc
++41	./Users/tianhan/Google Drive/Job Application/internship
++36	./System/Library/Caches/com.apple.coresymbolicationd
++33	./Users/tianhan/Google Drive/tianhans-papers-repo/proposal exam
++29	./Users/tianhan/Documents/workspace/type-membound-paper
++24	./Users/tianhan/Library/Application Support/Firefox
++24	./Users/tianhan/.vscode/extensions/ban.spellright-3.0.60
++23	./System/Volumes/Data/Library/Caches
++23	./Library/Caches/com.apple.iconservices.store
++23	./Users/tianhan/Google Drive/Application and Documents/housing
++23	./Users/tianhan/Google Drive/Application and Documents/[archive]receipts
++20	./opt/homebrew/Cellar/openssl@1.1/1.1.1k
++19	./Users/tianhan/Library/Application Support/Code
++17	./opt/homebrew/Library/Taps/homebrew
++15	./Users/tianhan/Library/Containers/com.microsoft.Powerpoint
++13	./Users/tianhan/Library/Containers/com.apple.Safari
++11	./System/Volumes/Data/.Spotlight-V100/Store-V2
++11	./Users/tianhan/Library/Caches/com.colliderli.iina
++11	./Users/tianhan/Google Drive/Application and Documents/opt
++10	./Users/tianhan/Library/Caches/Google
++10	./Users/tianhan/Documents/workspace/brbo-paper
++10	./Users/tianhan/Library/Keychains/B8656EF3-B403-5ADB-8B91-31971DFBAED9
++8	./private/var/folders/gm/4hbx6y416bd_8mhqfj8hz8v40000gn
++8	./private/var/db/systemstats
++8	./Users/tianhan/Google Drive/Application and Documents/[archive]2015-fall
++7	./Users/tianhan/Library/Containers/com.docker.docker
++7	./private/var/db/diagnostics/Persist
++7	./Users/tianhan/Google Drive/Application and Documents/i20
++7	./Users/tianhan/Documents/workspace/resume
++7	./Users/tianhan/.vscode/extensions/vscjava.vscode-java-pack-0.18.4
++6	./Users/tianhan/Library/Assistant
++5	./Applications/Firefox.app/Contents/MacOS
++5	./System/Volumes/Data/Applications/Slack.app
++5	./Applications/Docker.app/Contents/Resources/cli-plugins
++5	./Users/tianhan/Library/Containers/com.tencent.qq
++5	./private/var/log/powermanagement
++5	./Users/tianhan/Library/Containers/com.apple.iWork.Keynote
++5	./Applications/Slack.app/Contents/Resources/app.asar.unpacked
++5	./Users/tianhan/.vscode/extensions/grapecity.gc-excelviewer-3.0.43
++4	./System/Volumes/Data/Applications/Microsoft PowerPoint.app
++4	./Users/tianhan/Google Drive/Kindle/CS
++4	./System/Volumes/Data/Applications/Firefox.app
++4	./Users/tianhan/Library/Caches/com.apple.Spotlight
++4	./private/var/db/uuidtext/CE
++4	./opt/homebrew/lib/ruby/gems
++4	./Users/tianhan/Documents/workspace/bonsai
++4	./Users/tianhan/.vscode/extensions/ms-vscode-remote.remote-containers-0.191.1
++3	./Users/tianhan/Google Drive/CUBoulder/papers
++3	./System/Volumes/Data/Applications/Microsoft Word.app
++3	./System/Volumes/Data/Applications/Microsoft Excel.app
++3	./Users/tianhan/Library/Caches/CloudKit
++3	./private/var/db/powerlog/Library
++3	./private/var/log/DiagnosticMessages
++3	./Users/tianhan/Library/PersonalizationPortrait
++3	./private/var/protected/sfanalytics/FFFFEEEE-DDDD-CCCC-BBBB-AAAA00000059
++3	./Users/tianhan/Library/Caches/com.foxit-software.Foxit PDF Reader
++3	./Users/tianhan/Library/SyncedPreferences/com.apple.kvs
++3	./Users/tianhan/Library/Application Support/BetterTouchTool
++2	./Users/tianhan/Library/Caches/JetBrains
++2	./Users/tianhan/Library/Application Support/Steam
++2	./Applications/Microsoft Word.app/Contents/Frameworks/mso40ui.framework
++2	./Applications/Microsoft PowerPoint.app/Contents/Frameworks/mso40ui.framework
++2	./Applications/Microsoft Excel.app/Contents/Frameworks/mso40ui.framework
++2	./Applications/Microsoft PowerPoint.app/Contents/MacOS
++2	./opt/homebrew/.git/objects/pack
++2	./private/var/audit
++2	./Users/tianhan/Library/Containers/com.apple.news.tag
++2	./Users/tianhan/Library/Caches/com.adobe.Reader
++2	./private/var/protected/sfanalytics/FFFFEEEE-DDDD-CCCC-BBBB-AAAA000000CD
++2	./Users/tianhan/Library/Messages
++2	./private/var/db/uuidtext/80
++2	./private/var/db/uuidtext/35
++2	./opt/homebrew/Cellar/readline/8.1
++2	./Users/tianhan/Google Drive/Job Application/full time
++2	./Users/tianhan/Google Drive/Application and Documents/[archive]travel
++2	./Users/tianhan/Documents/workspace/tianhan
++1	./Applications/Microsoft Word.app/Contents/SharedSupport
++1	./Applications/Microsoft Word.app/Contents/Frameworks/mso99.framework
++1	./Applications/Microsoft PowerPoint.app/Contents/Frameworks/mso99.framework
++1	./Applications/Microsoft Excel.app/Contents/Frameworks/mso99.framework
++1	./private/var/db/Spotlight-V100/BootVolume
++1	./Applications/Microsoft Word.app/Contents/MacOS
++1	./System/Volumes/Data/.DocumentRevisions-V100/.cs
++1	./Users/tianhan/Pictures/Photos Library.photoslibrary/resources
++1	./Users/tianhan/Library/Calendars
++1	./Users/tianhan/Google Drive/tianhans-papers-repo/sent reviews
++1	./private/var/db/SystemPolicyConfiguration
++1	./Users/tianhan/Library/Suggestions
++1	./Applications/Microsoft Word.app/Contents/Frameworks/osf.framework
++1	./Applications/Microsoft PowerPoint.app/Contents/Frameworks/osf.framework
++1	./Applications/Microsoft Excel.app/Contents/Frameworks/osf.framework
++1	./private/var/folders/zz/zyxvpxvq6csfxvn_n00000b000002r
++1	./Applications/Microsoft Word.app/Contents/Resources/es.lproj
++1	./Applications/Microsoft Excel.app/Contents/Resources/Base.lproj
++1	./Users/tianhan/Library/Group Containers/UBF8T346G9.Office
++1	./Users/tianhan/Documents/workspace/TrackDiskUsage
++1	./Users/tianhan/Library/IdentityServices
++1	./Users/tianhan/Library/Containers/com.apple.weather.widget
++1	./Users/tianhan/Library/Containers/com.apple.CalendarAgent
++1	./Users/tianhan/Library/Caches/com.apple.passd
++1	./Users/tianhan/Library/Caches/com.apple.itunescloudd
++1	./Users/tianhan/Library/Application Support/Animoji
++1	./Applications/Microsoft PowerPoint.app/Contents/Resources/sdx
++1	./Users/tianhan/Library/Containers/com.apple.stocks.widget
++1	./Users/tianhan/Library/Caches/com.apple.iTunes
++1	./Users/tianhan/Library/Accounts
++1	./Users/tianhan/Library/Containers/com.apple.iCal.CalendarWidgetExtension
++1	./Users/tianhan/Library/Caches/com.apple.touristd
++1	./Library/Logs/DiagnosticReports
++1	./private/var/db/uuidtext/57
++1	./Users/tianhan/Library/Caches/familycircled
++1	./Users/tianhan/Library/Caches/com.apple.VideoConference
++1	./Users/tianhan/Library/Application Support/com.apple.spotlight
++1	./Library/Application Support/com.expressvpn.ExpressVPN/data
++1	./opt/homebrew/etc/openssl@1.1/misc
++1	./opt/homebrew/Library/Homebrew/api
++1	./opt/homebrew/Cellar/libyaml/0.2.5
++1	./opt/homebrew/.sublime
++1	./Users/tianhan/Library/Saved Application State/us.zoom.xos.savedState
++1	./Users/tianhan/Library/LanguageModeling/hu-dynamic.lm
++1	./Users/tianhan/Library/LanguageModeling/es-dynamic.lm
++1	./Users/tianhan/Library/Keyboard/de-dynamic.lm
++1	./Users/tianhan/Google Drive/Website/public
++1	./Users/tianhan/Google Drive/Website/backup
++1	./Users/tianhan/Google Drive/Website/_site
++1	./Users/tianhan/Google Drive/Website/_posts
++1	./Users/tianhan/Google Drive/Website/_layouts
++1	./Users/tianhan/Google Drive/Website/_includes
++1	./Users/tianhan/Google Drive/Website/_data
++1	./Users/tianhan/Google Drive/Website/.git
++1	./Users/tianhan/Google Drive/Job Application/others resumes
++1	./Users/tianhan/Google Drive/Job Application/old resume
++1	./Users/tianhan/Google Drive/Job Application/cover letter
++1	./Users/tianhan/Google Drive/Job Application/.git
++1	./Users/tianhan/Google Drive/Application and Documents/passport-renew
++1	./Users/tianhan/Google Drive/Application and Documents/health
++1	./Users/tianhan/Google Drive/Application and Documents/[20210713]work authorization options
++1	./Users/tianhan/Documents/workspace/website-do-not-modify
++1	./System/Library/AssetsV2/com_apple_MobileAsset_LinguisticData/1c9762d4e211740da17573efbe481dfcdfeb2854.asset
+-1	./Applications/Firefox.app/Contents/Resources/browser
+-1	./Users/tianhan/Library/Caches/GeoServices
+-1	./Users/tianhan/Library/Caches/com.apple.parsecd
+-1	./private/var/protected/sfanalytics/7D0905F4-DE20-4CB6-A914-85DD1443E8D9
+-1	./Users/tianhan/Library/Logs
+-1	./Users/tianhan/Library/Caches/com.microsoft.autoupdate.fba
+-1	./private/var/db/uuidtext/41
+-1	./private/var/spool/cups/tmp
+-1	./private/var/db/uuidtext/C1
+-1	./private/var/db/uuidtext/72
+-1	./private/var/db/uuidtext/56
+-1	./private/var/db/uuidtext/3E
+-1	./private/etc/cups/certs
+-2	./Users/tianhan/Library/Caches/Firefox
+-2	./private/var/protected/sfanalytics/FFFFEEEE-DDDD-CCCC-BBBB-AAAA0000011A
+-2	./Users/tianhan/Library/Application Support/Knowledge
+-2	./private/var/db/CoreDuet/People
+-2	./Users/tianhan/Library/Trial/v5
+-2	./Users/tianhan/Library/Caches/com.apple.ap.adprivacyd
+-3	./Users/tianhan/Library/Caches/com.apple.AppleMediaServices
+-3	./Users/tianhan/Library/Containers/com.apple.news.widget
+-3	./private/var/root/Library/Caches
+-3	./private/var/db/uuidtext/B5
+-3	./private/var/db/uuidtext/6E
+-3	./private/var/db/DuetActivityScheduler
+-4	./Users/tianhan/Google Drive/tianhans-papers-repo/misc
+-4	./Users/tianhan/Library/Application Support/Adobe
+-4	./Users/tianhan/Library/Caches/com.apple.appstoreagent
+-4	./Users/tianhan/Library/Application Support/CloudDocs
+-4	./private/var/db/uuidtext/24
+-4	./private/var/db/uuidtext/21
+-4	./private/var/db/uuidtext/0B
+-4	./Users/tianhan/Library/Caches/com.apple.icloud.fmfd
+-5	./private/var/db/locationd/Library
+-6	./Users/tianhan/Library/Containers/com.apple.geod
+-8	./System/Volumes/Data/.DocumentRevisions-V100/db-V1
+-23	./System/Volumes/Data/Applications/Docker.app
+-27	./Applications/Docker.app/Contents/Resources/linuxkit
+-96	./private/var/db/diagnostics/Special
+-149	./Users/tianhan/Library/Caches/Homebrew
+-177	./Users/tianhan/Library/Application Support/Google
+
+
+-----------------------------
+Total size increased (MB): 5109
+-----------------------------

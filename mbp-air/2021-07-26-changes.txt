@@ -1,0 +1,207 @@
++6435	./System/Volumes/Data/Users/tianhan
++2048	./System/Volumes/VM
++962	./Users/tianhan/Library/Caches/com.spotify.client
++944	./Users/tianhan/Library/Application Support/Steam
++804	./Users/tianhan/.gradle/caches/jars-8
++652	./Users/tianhan/Google Drive/CUBoulder/papers
++432	./Users/tianhan/.gradle/wrapper/dists
++351	./Users/tianhan/dwhelper
++337	./Users/tianhan/Library/Group Containers/243LU875E5.groups.com.apple.podcasts
++336	./Users/tianhan/Desktop
++231	./Users/tianhan/.gradle/caches/modules-2
++211	./System/Volumes/Data/Applications/RemNote.app
++200	./Users/tianhan/Library/Caches/JetBrains
++186	./Library/Logs/CrashReporter/CoreCapture/WiFi
++183	./System/Volumes/Data/Library/Logs
++170	./Applications/RemNote.app/Contents/Frameworks/Electron Framework.framework
++149	./Users/tianhan/.gradle/caches/7.0.2
++146	./Users/tianhan/Library/Application Support/Google
++132	./Users/tianhan/.m2/repository/org
++121	./Users/tianhan/Library/Application Support/Code
++115	./System/Volumes/Data/System/Library
++115	./System/Library/Caches/com.apple.coresymbolicationd
++110	./Users/tianhan/Library/Application Support/Spotify
++102	./System/Volumes/Data/.Spotlight-V100/Store-V2
++102	./private/var/db/diagnostics/Signpost
++83	./System/Volumes/Data/Applications/Trello.app
++78	./Applications/Trello.app/Contents/Frameworks/Electron Framework.framework
++77	./Users/tianhan/.vscode/extensions/ms-toolsai.jupyter-2021.8.1054968649
++76	./Users/tianhan/Documents/workspace/literature
++71	./Users/tianhan/.vscode/extensions/ms-python.python-2021.7.1060902895
++69	./Users/tianhan/Library/Application Support/Slack
++59	./Users/tianhan/.vscode/extensions/ms-python.vscode-pylance-2021.7.5
++38	./Users/tianhan/Library/Containers/com.atlassian.trello
++36	./Users/tianhan/Library/Caches/Google
++34	./System/Volumes/Data/Library/Caches
++34	./Library/Caches/com.apple.iconservices.store
++26	./Users/tianhan/Library/Containers/com.tencent.xinWeChat
++23	./Users/tianhan/Library/Caches/com.colliderli.iina
++22	./System/Volumes/Data/.fseventsd
++20	./Users/tianhan/.m2/repository/net
++15	./Users/tianhan/Library/Containers/com.tencent.qq
++14	./Users/tianhan/Library/Containers/com.apple.podcasts
++12	./Users/tianhan/Library/Application Support/Firefox
++12	./Users/tianhan/Google Drive/CUBoulder/admin
++11	./private/var/db/powerlog/Library
++10	./private/var/db/diagnostics/Persist
++8	./Users/tianhan/Library/Caches/com.apple.AppleMediaServices
++8	./Users/tianhan/Library/Containers/com.amazon.Kindle
++8	./Users/tianhan/.m2/repository/biz
++7	./Users/tianhan/Library/Metadata/CoreSpotlight
++7	./System/Volumes/Data/Applications/Steam.app
++6	./private/var/folders/gm/4hbx6y416bd_8mhqfj8hz8v40000gn
++5	./Users/tianhan/Library/Containers/com.apple.AppStore
++5	./Applications/Steam.app/Contents/MacOS
++4	./System/Volumes/Data/Applications/Google Chrome.app
++4	./Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework
++4	./System/Volumes/Data/Applications/WeChat.app
++4	./private/var/log/asl
++4	./Users/tianhan/Library/Caches/com.apple.appstoreagent
++4	./Users/tianhan/Library/Caches/com.apple.Spotlight
++4	./private/var/log/DiagnosticMessages
++4	./private/var/db/uuidtext/6B
++4	./private/var/db/uuidtext/1D
++3	./Users/tianhan/Library/Application Support/zoom.us
++3	./Users/tianhan/Library/HomeKit
++3	./private/var/db/uuidtext/FE
++3	./private/var/db/uuidtext/9C
++3	./private/var/db/uuidtext/8A
++3	./private/var/db/uuidtext/6E
++3	./Users/tianhan/Library/Caches/com.microsoft.autoupdate.fba
++3	./Users/tianhan/.m2/repository/xerces
++2	./Users/tianhan/Documents/workspace/industry
++2	./Applications/WeChat.app/Contents/MacOS
++2	./private/var/log/powermanagement
++2	./Users/tianhan/Library/Assistant
++2	./Users/tianhan/Library/Application Support/Knowledge
++2	./Users/tianhan/Library/Application Support/AddressBook
++2	./Users/tianhan/Library/Containers/com.apple.weather.widget
++2	./Users/tianhan/Library/Messages
++2	./Applications/WeChat.app/Contents/Frameworks/matrixreport.framework
++2	./Users/tianhan/.m2/repository/junit
++2	./Users/tianhan/.m2/repository/commons-io
++2	./Users/tianhan/.m2/repository/commons-collections
++2	./Users/tianhan/.m2/repository/commons-codec
++2	./Applications/Steam.app/Contents/Frameworks/Breakpad.framework
++1	./Users/tianhan/Library/Containers/com.docker.docker
++1	./System/Volumes/Data/Applications/Slack.app
++1	./Applications/Slack.app/Contents
++1	./private/var/db/receipts
++1	./Users/tianhan/Library/Calendars
++1	./Users/tianhan/Library/Caches/GeoServices
++1	./Users/tianhan/Library/Caches/CloudKit
++1	./Users/tianhan/Library/Caches/com.apple.parsecd
++1	./private/var/folders/zz/zyxvpxvq6csfxvn_n00000b000002r
++1	./Users/tianhan/Library/Application Support/CloudDocs
++1	./Users/tianhan/Library/Containers/com.apple.stocks.widget
++1	./private/var/protected/sfanalytics/FFFFEEEE-DDDD-CCCC-BBBB-AAAA00000059
++1	./Users/tianhan/Documents/workspace/TrackDiskUsage
++1	./Users/tianhan/Library/Caches/com.apple.transparencyd
++1	./Users/tianhan/Library/Application Support/CallHistoryDB
++1	./Users/tianhan/Library/Logs/JetBrains
++1	./Users/tianhan/Documents/workspace/brbo2-paper
++1	./private/var/db/uuidtext/41
++1	./Users/tianhan/Library/Logs/DiagnosticReports
++1	./Users/tianhan/Library/Group Containers/group.com.apple.notes
++1	./Users/tianhan/Library/Containers/com.apple.Notes
++1	./Users/tianhan/Library/Saved Application State/com.jetbrains.intellij.ce.savedState
++1	./Users/tianhan/Library/Application Support/Oracle
++1	./Users/tianhan/.sbt/1.0
++1	./private/tmp/lilo.4462
++1	./Users/tianhan/Library/Saved Application State/us.zoom.xos.savedState
++1	./Users/tianhan/Library/LanguageModeling/da-dynamic.lm
++1	./Users/tianhan/Library/Group Containers/E398N47F4R.com.atlassian.trello
++1	./Users/tianhan/Library/Caches/com.oracle.java.Java-Updater
++1	./Users/tianhan/.m2/repository/xmlunit
++1	./Users/tianhan/.m2/repository/xml-apis
++1	./Users/tianhan/.m2/repository/sslext
++1	./Users/tianhan/.m2/repository/oro
++1	./Users/tianhan/.m2/repository/logkit
++1	./Users/tianhan/.m2/repository/log4j
++1	./Users/tianhan/.m2/repository/jdom
++1	./Users/tianhan/.m2/repository/jaxen
++1	./Users/tianhan/.m2/repository/javax
++1	./Users/tianhan/.m2/repository/info
++1	./Users/tianhan/.m2/repository/dom4j
++1	./Users/tianhan/.m2/repository/de
++1	./Users/tianhan/.m2/repository/commons-validator
++1	./Users/tianhan/.m2/repository/commons-logging
++1	./Users/tianhan/.m2/repository/commons-lang
++1	./Users/tianhan/.m2/repository/commons-httpclient
++1	./Users/tianhan/.m2/repository/commons-digester
++1	./Users/tianhan/.m2/repository/commons-cli
++1	./Users/tianhan/.m2/repository/commons-chain
++1	./Users/tianhan/.m2/repository/commons-beanutils
++1	./Users/tianhan/.m2/repository/classworlds
++1	./Users/tianhan/.m2/repository/ch
++1	./Users/tianhan/.m2/repository/backport-util-concurrent
++1	./Users/tianhan/.m2/repository/avalon-framework
++1	./Users/tianhan/.m2/repository/asm
++1	./Users/tianhan/.m2/repository/aopalliance
++1	./Users/tianhan/.m2/repository/antlr
++1	./Users/tianhan/.gradle/native/jansi
++1	./Users/tianhan/.gradle/native/8bec1ad78214c89d9ad589b4d07fe93259594b29d510b10fafb7a158f7737e5d
++1	./Users/tianhan/.gradle/native/53dbd7edfb1c66fb8903c78663c9afc45aea4f116125fa6feffd364cf09443e8
++1	./Users/tianhan/.gradle/kotlin-profile
++1	./Users/tianhan/.gradle/daemon/7.0.2
++1	./Users/tianhan/.gradle/caches/journal-1
++1	./Users/tianhan/.gradle/.tmp/gradle-kotlin-dsl-extensions-7.0379028593971522750925524607397355801393jar
++1	./System/Library/Assets/com_apple_MobileAsset_LinguisticData
++1	./Applications/Trello.app/Contents/_MASReceipt
++1	./Applications/Trello.app/Contents/_CodeSignature
++1	./Applications/Trello.app/Contents/MacOS
++1	./Applications/Trello.app/Contents/Library/LoginItems
++1	./Applications/Trello.app/Contents/Frameworks/Trello Helper.app
++1	./Applications/Trello.app/Contents/Frameworks/Trello Helper (Renderer).app
++1	./Applications/Trello.app/Contents/Frameworks/Trello Helper (Plugin).app
++1	./Applications/Trello.app/Contents/Frameworks/Trello Helper (GPU).app
++1	./Applications/Steam.app/Contents/_CodeSignature
++1	./Applications/Steam.app/Contents/Resources/public
++1	./Applications/RemNote.app/Contents/_CodeSignature
++1	./Applications/RemNote.app/Contents/MacOS
++1	./Applications/RemNote.app/Contents/Frameworks/Squirrel.framework
++1	./Applications/RemNote.app/Contents/Frameworks/RemNote Helper.app
++1	./Applications/RemNote.app/Contents/Frameworks/RemNote Helper (Renderer).app
++1	./Applications/RemNote.app/Contents/Frameworks/RemNote Helper (Plugin).app
++1	./Applications/RemNote.app/Contents/Frameworks/RemNote Helper (GPU).app
++1	./Applications/RemNote.app/Contents/Frameworks/ReactiveObjC.framework
++1	./Applications/RemNote.app/Contents/Frameworks/Mantle.framework
+-1	./Users/tianhan/Library/Application Support/Microsoft
+-1	./Users/tianhan/Library/Caches/com.apple.helpd
+-1	./Users/tianhan/Library/Containers/com.apple.geod
+-1	./Users/tianhan/Library/Keychains/B8656EF3-B403-5ADB-8B91-31971DFBAED9
+-1	./Users/tianhan/Library/Application Support/BetterTouchTool
+-1	./private/var/db/CoreDuet/People
+-1	./private/var/db/uuidtext/D1
+-1	./Users/tianhan/Library/Accounts
+-1	./private/var/spool/cups/tmp
+-1	./private/etc/cups/certs
+-1	./Users/tianhan/Library/Caches/com.apple.nsurlsessiond
+-2	./private/var/db/uuidtext/75
+-2	./private/var/db/uuidtext/10
+-3	./Library/Logs/DiagnosticReports
+-3	./Users/tianhan/Library/Caches/com.apple.itunescloudd
+-3	./private/var/db/uuidtext/5B
+-4	./usr/local/texlive/2021/texmf-var
+-4	./Users/tianhan/Pictures/Photos Library.photoslibrary/resources
+-4	./private/var/db/SystemPolicyConfiguration
+-4	./private/var/db/uuidtext/D4
+-5	./System/Volumes/Data/usr/local
+-9	./private/var/db/Spotlight-V100/BootVolume
+-12	./Users/tianhan/Library/Caches/Firefox
+-15	./Library/Audio/Impulse Responses
+-16	./System/Volumes/Data/.DocumentRevisions-V100/db-V1
+-19	./private/var/db/systemstats
+-23	./Users/tianhan/Library/Application Support/Adobe
+-33	./System/Volumes/Data/private/var
+-186	./private/var/db/diagnostics/Special
+-473	./Library/Audio/Apple Loops
+-487	./System/Volumes/Data/Library/Audio
+-500	./Library/Application Support/GarageBand/Learn to Play
+-908	./Library/Application Support/Logic
+-1801	./System/Volumes/Data/Library/Application Support
+
+
+-----------------------------
+Total size increased (MB): 12092
+-----------------------------

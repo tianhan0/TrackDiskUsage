@@ -1,0 +1,539 @@
++13191	./Users/tianhan/Library/Application Support/Google
++11135	./System/Volumes/Data/Users/tianhan
++8697	./Users/tianhan/Library/Containers/com.docker.docker
++706	./System/Volumes/Data/opt/homebrew
++497	./Users/tianhan/dwhelper
++475	./System/Volumes/Data/private/var
++368	./private/var/folders/gm/4hbx6y416bd_8mhqfj8hz8v40000gn
++359	./System/Volumes/Data/Applications/Google Drive.app
++342	./Users/tianhan/.sdkman/candidates/java
++330	./Users/tianhan/Library/Application Support/Slack
++246	./Users/tianhan/Library/Application Support/discord
++238	./System/Library/Caches/com.apple.coresymbolicationd
++234	./System/Volumes/Data/System/Library
++223	./Applications/Google Drive.app/Contents/Frameworks/Chromium Embedded Framework.framework
++206	./Users/tianhan/Library/Containers/com.tencent.xinWeChat
++199	./Users/tianhan/.sdkman/archives
++194	./Users/tianhan/Library/Caches/Homebrew
++185	./System/Volumes/Data/Applications/Discord.app
++174	./Applications/Discord.app/Contents/Frameworks/Electron Framework.framework
++155	./Users/tianhan/Documents/workspace/brbo2-impl
++142	./Users/tianhan/.vscode/extensions/juanblanco.solidity-0.0.134
++127	./System/Volumes/Data/.fseventsd
++127	./Users/tianhan/.vscode/extensions/ms-vscode.cpptools-1.7.1
++125	./Users/tianhan/Library/Application Support/Spotify
++121	./Users/tianhan/Library/ScreenRecordings
++105	./Users/tianhan/Library/Caches/JetBrains
++100	./opt/homebrew/Cellar/rav1e/0.4.1_1
++85	./Users/tianhan/Documents/workspace/brbo-paper
++83	./System/Volumes/Data/Library/Caches
++80	./Library/Caches/com.apple.iconservices.store
++77	./Users/tianhan/Library/Application Support/DiskDrill
++74	./Users/tianhan/Library/Application Support/Firefox
++74	./opt/homebrew/Cellar/icu4c/69.1
++65	./System/Volumes/Data/Applications/WeChat.app
++64	./opt/homebrew/Cellar/python@3.9/3.9.7
++64	./Users/tianhan/.vscode/extensions/ms-python.vscode-pylance-2021.10.3
++64	./Users/tianhan/.vscode/extensions/ms-python.vscode-pylance-2021.10.2
++59	./opt/homebrew/Cellar/guile/3.0.7_1
++58	./Users/tianhan/.vscode/extensions/ms-python.python-2021.10.1365161279
++54	./Applications/Google Drive.app/Contents/MacOS
++53	./Users/tianhan/.vscode/extensions/james-yu.latex-workshop-8.21.1
++50	./Users/tianhan/Library/Caches/com.spotify.client
++50	./opt/homebrew/Cellar/ffmpeg/4.4_2
++42	./Users/tianhan/.vscode/extensions/ms-toolsai.jupyter-2021.9.1101343141
++39	./Users/tianhan/Library/Containers/com.apple.Safari
++38	./private/var/db/diagnostics/Special
++37	./Users/tianhan/Library/Containers/com.tencent.qq
++37	./Users/tianhan/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram
++34	./Users/tianhan/Library/Caches/Coursier
++30	./opt/homebrew/Cellar/tesseract/4.1.1
++29	./Users/tianhan/Library/Mobile Documents/com~apple~Keynote
++28	./Users/tianhan/Library/Caches/com.netease.163music
++27	./opt/homebrew/Cellar/gettext/0.21
++24	./opt/homebrew/Library/Taps/homebrew
++23	./opt/homebrew/Cellar/glib/2.70.0
++23	./System/Volumes/Data/Applications/NeteaseMusic.app
++22	./Users/tianhan/Library/Caches/CloudKit
++22	./private/var/db/uuidtext/F4
++21	./Users/tianhan/javasharedresources
++20	./System/Volumes/Data/Applications/Google Chrome.app
++20	./Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework
++20	./opt/homebrew/Cellar/openssl@1.1/1.1.1l_1
++19	./Applications/Google Drive.app/Contents/Applications/FinderHelper.app
++18	./private/var/log/asl
++16	./opt/homebrew/Cellar/libxcb/1.14_1
++15	./opt/homebrew/lib/python3.9/site-packages
++15	./opt/homebrew/Cellar/openjpeg/2.4.0
++15	./opt/homebrew/Cellar/gnutls/3.6.16
++14	./Applications/Spotify.app/Contents/Frameworks/Chromium Embedded Framework.framework
++14	./Applications/WeChat.app/Contents/MacOS/Mini Program.app
++14	./opt/homebrew/Cellar/gobject-introspection/1.70.0
++14	./Users/tianhan/.vscode/extensions/ms-toolsai.jupyter-renderers-1.0.3
++11	./System/Volumes/Data/Applications/Slack.app
++11	./private/var/db/uuidtext/57
++11	./opt/homebrew/Cellar/libx11/1.7.2
++10	./System/Volumes/Data/Applications/Docker.app
++10	./private/var/protected/trustd
++10	./private/var/db/uuidtext/05
++10	./Library/Google/GoogleSoftwareUpdate/GoogleSoftwareUpdate.bundle/Contents
++9	./Applications/Slack.app/Contents/Resources/app.asar.unpacked
++9	./Users/tianhan/Library/Containers/com.apple.AppStore
++9	./System/Volumes/Data/Library/Google
++9	./Applications/WeChat.app/Contents/Frameworks/andromeda.framework
++9	./Applications/NeteaseMusic.app/Contents/MacOS
++8	./private/var/db/uuidtext/9E
++8	./Users/tianhan/Downloads
++8	./opt/homebrew/Cellar/aom/3.1.3
++7	./Users/tianhan/Library/Containers/com.apple.iWork.Keynote
++7	./opt/homebrew/Cellar/zeromq/4.3.4
++7	./opt/homebrew/Cellar/x265/3.5
++7	./opt/homebrew/Cellar/leptonica/1.82.0
++7	./opt/homebrew/Cellar/harfbuzz/3.0.0
++7	./opt/homebrew/Cellar/frei0r/1.7.0
++7	./opt/homebrew/Cellar/cairo/1.16.0_5
++7	./Users/tianhan/Library/Containers/com.netease.163music
++7	./Users/tianhan/.vscode/extensions/vscjava.vscode-java-pack-0.18.6
++7	./Applications/Google Drive.app/Contents/Frameworks/Google Drive Helper.app
++7	./Applications/Google Drive.app/Contents/Frameworks/Google Drive Helper (Renderer).app
++7	./Applications/Google Drive.app/Contents/Frameworks/Google Drive Helper (Plugin).app
++7	./Applications/Google Drive.app/Contents/Frameworks/Google Drive Helper (GPU).app
++6	./Applications/Docker.app/Contents/MacOS/Docker Desktop.app
++6	./private/var/db/uuidtext/4C
++6	./opt/homebrew/var/cache/fontconfig
++6	./opt/homebrew/Cellar/unbound/1.13.2_1
++6	./opt/homebrew/Cellar/sdl2/2.0.16
++6	./opt/homebrew/Cellar/libtiff/4.3.0
++6	./opt/homebrew/Cellar/fontconfig/2.13.1
++6	./Applications/Google Drive.app/Contents/PlugIns/DFSFileProviderExtension.appex
++5	./private/var/db/diagnostics/Persist
++5	./System/Volumes/Data/Applications/Visual Studio Code.app
++5	./Applications/Visual Studio Code.app/Contents/Resources/app
++5	./Users/tianhan/Library/Caches/com.colliderli.iina
++5	./private/var/db/powerlog/Library
++5	./Users/tianhan/Library/Application Support/CloudDocs
++5	./Users/tianhan/Library/Caches/com.foxit-software.Foxit PDF Reader
++5	./opt/homebrew/Cellar/xorgproto/2021.5
++5	./opt/homebrew/Cellar/x264/r3060
++5	./opt/homebrew/Cellar/srt/1.4.4
++5	./opt/homebrew/Cellar/sqlite/3.36.0
++5	./opt/homebrew/Cellar/pcre/8.45
++5	./opt/homebrew/Cellar/libunistring/0.9.10
++5	./Users/tianhan/Library/Containers/com.foxitsoftware.FoxitReaderLite
++5	./Users/tianhan/.vscode/extensions/streetsidesoftware.code-spell-checker-2.0.10
++5	./Users/tianhan/.vscode/extensions/ms-vscode-remote.remote-containers-0.202.5
++5	./Applications/Google Drive.app/Contents/Frameworks/KeystoneRegistration.framework
++4	./System/Volumes/Data/Applications/Spotify.app
++4	./Users/tianhan/Pictures/Photos Library.photoslibrary/originals
++4	./Users/tianhan/Library/Caches/com.apple.helpd
++4	./private/var/db/locationd/Library
++4	./Users/tianhan/Library/Caches/GeoServices
++4	./Users/tianhan/Library/Metadata/CoreSpotlight
++4	./Users/tianhan/Library/Caches/com.apple.appstoreagent
++4	./Users/tianhan/Library/HomeKit
++4	./Users/tianhan/Library/PersonalizationPortrait
++4	./private/var/db/uuidtext/C8
++4	./private/var/db/uuidtext/07
++4	./Users/tianhan/Library/Trial/v5
++4	./Users/tianhan/Library/Application Support/CallHistoryDB
++4	./opt/homebrew/Cellar/p11-kit/0.24.0
++4	./opt/homebrew/Cellar/libvpx/1.10.0_1
++4	./opt/homebrew/Cellar/libtool/2.4.6_4
++4	./opt/homebrew/Cellar/libsamplerate/0.1.9_1
++4	./opt/homebrew/Cellar/gmp/6.2.1_1
++4	./Library/Caches/com.google.SoftwareUpdate.0/Downloads
++4	./Applications/WeChat.app/Contents/Frameworks/OpenSSL.framework
++4	./Applications/NeteaseMusic.app/Contents/Frameworks/Sparkle.framework
++3	./System/Volumes/Data/Applications/Foxit PDF Reader.app
++3	./Applications/Slack.app/Contents/Frameworks/Electron Framework.framework
++3	./opt/homebrew/.git/objects/pack
++3	./Users/tianhan/Library/Calendars
++3	./System/Volumes/Data/Applications/Stats.app
++3	./private/var/audit
++3	./Users/tianhan/Library/Containers/com.apple.news.widget
++3	./Users/tianhan/Library/Containers/com.apple.news.tag
++3	./Users/tianhan/Library/Application Support/Knowledge
++3	./private/var/protected/sfanalytics/FFFFEEEE-DDDD-CCCC-BBBB-AAAA000000CD
++3	./private/var/db/timezone/tz
++3	./Users/tianhan/Library/Containers/com.apple.weather.widget
++3	./private/var/db/uuidtext/98
++3	./private/var/db/uuidtext/1D
++3	./private/var/db/DuetActivityScheduler
++3	./Users/tianhan/Library/Caches/com.microsoft.autoupdate.fba
++3	./Users/tianhan/Library/Caches/com.apple.touristd
++3	./opt/homebrew/Cellar/webp/1.2.1
++3	./opt/homebrew/Cellar/theora/1.1.1
++3	./opt/homebrew/Cellar/nettle/3.7.3
++3	./opt/homebrew/Cellar/mpdecimal/2.5.1
++3	./opt/homebrew/Cellar/libvorbis/1.3.7
++3	./opt/homebrew/Cellar/libsndfile/1.0.31
++3	./opt/homebrew/Cellar/libevent/2.1.12
++3	./opt/homebrew/Cellar/lame/3.100
++3	./opt/homebrew/Cellar/freetype/2.11.0
++3	./opt/homebrew/Cellar/flac/1.3.3
++3	./Applications/NeteaseMusic.app/Contents/Frameworks/AudioCodec.framework
++3	./Applications/Google Drive.app/Contents/Library/QuickLook
++2	./Applications/Docker.app/Contents/Resources/linuxkit
++2	./private/var/spool/cups
++2	./Applications/Foxit PDF Reader.app/Contents/MacOS
++2	./private/var/db/Spotlight-V100/BootVolume
++2	./Users/tianhan/Pictures/Photos Library.photoslibrary/resources
++2	./System/Volumes/Data/Applications/Skim.app
++2	./Applications/Keynote.app/Contents/MacOS
++2	./private/var/db/SystemPolicyConfiguration
++2	./Users/tianhan/Library/Assistant
++2	./Applications/Pages.app/Contents/Frameworks/TSTables.framework
++2	./Applications/Numbers.app/Contents/Frameworks/TSTables.framework
++2	./Applications/Keynote.app/Contents/Frameworks/TSTables.framework
++2	./Users/tianhan/Library/Caches/com.apple.helpviewer
++2	./Users/tianhan/Library/Caches/com.apple.akd
++2	./Applications/WeChat.app/Contents/Frameworks/ilink_network.framework
++2	./Users/tianhan/Library/Containers/com.apple.iCal.CalendarWidgetExtension
++2	./Users/tianhan/Library/Caches/eu.exelban.Stats
++2	./private/var/db/uuidtext/B1
++2	./private/var/db/uuidtext/A3
++2	./private/var/db/uuidtext/6D
++2	./Users/tianhan/Library/FrontBoard
++2	./Users/tianhan/Library/Containers/com.apple.corerecents.recentsd
++2	./Users/tianhan/Library/Caches/com.apple.transparencyd
++2	./opt/homebrew/Cellar/zimg/3.0.3
++2	./opt/homebrew/Cellar/xz/5.2.5
++2	./opt/homebrew/Cellar/xvid/1.3.7
++2	./opt/homebrew/Cellar/readline/8.1.1
++2	./opt/homebrew/Cellar/little-cms2/2.12
++2	./opt/homebrew/Cellar/libpng/1.6.37
++2	./opt/homebrew/Cellar/libidn2/2.3.2
++2	./opt/homebrew/Cellar/libbluray/1.3.0
++2	./opt/homebrew/Cellar/jpeg/9d
++2	./opt/homebrew/Cellar/gdbm/1.21
++2	./opt/homebrew/Cellar/dav1d/0.9.2
++2	./opt/homebrew/Cellar/bdw-gc/8.0.6
++1	./Users/tianhan/Documents/workspace/Public_EL_Information
++1	./Applications/Docker.app/Contents/Resources/bin
++1	./Users/tianhan/Library/Application Support/Foxit Software
++1	./Users/tianhan/Library/Caches/com.apple.Music
++1	./Applications/Keynote.app/Contents/SharedSupport
++1	./System/Volumes/Data/Applications/Telegram.app
++1	./Users/tianhan/Library/Application Support/Adobe
++1	./Users/tianhan/Library/Containers/com.microsoft.Excel
++1	./Applications/Numbers.app/Contents/MacOS
++1	./private/var/folders/zz/zyxvpxvq6csfxvn_n00000b000002r
++1	./Users/tianhan/Library/Containers/com.apple.geod
++1	./Users/tianhan/Library/Group Containers/UBF8T346G9.Office
++1	./Applications/Pages.app/Contents/Frameworks/TSText.framework
++1	./Applications/Numbers.app/Contents/Frameworks/TSText.framework
++1	./Applications/Keynote.app/Contents/Frameworks/TSText.framework
++1	./System/Volumes/Data/Library/PrivilegedHelperTools
++1	./Library/PrivilegedHelperTools
++1	./private/var/protected/sfanalytics/FFFFEEEE-DDDD-CCCC-BBBB-AAAA00000059
++1	./Users/tianhan/Documents/workspace/TrackDiskUsage
++1	./Users/tianhan/Library/Application Support/Animoji
++1	./Applications/Telegram.app/Contents/Resources
++1	./Applications/Stats.app/Contents/Frameworks/Kit.framework
++1	./Users/tianhan/Library/Logs/JetBrains
++1	./Users/tianhan/Library/Caches/com.apple.itunescloudd
++1	./Users/tianhan/Library/Caches/com.apple.assistantd
++1	./Users/tianhan/Library/Caches/com.apple.nbagent
++1	./Users/tianhan/Library/Caches/com.apple.icloud.fmfd
++1	./Users/tianhan/Library/Caches/com.apple.AppleMediaServicesUI
++1	./Users/tianhan/Library/Caches/com.apple.AMPLibraryAgent
++1	./Users/tianhan/Library/Application Support/com.apple.ProtectedCloudStorage
++1	./Users/tianhan/Library/Safari/LocalStorage
++1	./Users/tianhan/Library/Preferences
++1	./Users/tianhan/Library/IdentityServices
++1	./Users/tianhan/Library/Caches/com.microsoft.teams
++1	./Users/tianhan/Library/Caches/com.apple.VideoConference
++1	./Users/tianhan/.zsh_sessions
++1	./Applications/Numbers.app/Contents/Resources/zh_TW.lproj
++1	./Applications/Numbers.app/Contents/Resources/zh_HK.lproj
++1	./Applications/Numbers.app/Contents/Resources/zh_CN.lproj
++1	./private/var/db/uuidtext/E9
++1	./private/var/db/uuidtext/E0
++1	./private/var/db/uuidtext/AA
++1	./private/var/db/uuidtext/5C
++1	./private/var/db/uuidtext/2F
++1	./private/var/db/uuidtext/1A
++1	./Users/tianhan/Library/Containers/ru.keepcoder.Telegram
++1	./Library/Application Support/com.expressvpn.ExpressVPN/data
++1	./Applications/WeChat.app/Contents/Frameworks/WCDB.framework
++1	./Applications/Stats.app/Contents/Frameworks/RAM.framework
++1	./Applications/Skim.app/Contents/Library/QuickLook
++1	./Applications/Microsoft PowerPoint.app/Contents/Resources/PowerPointModels.bundle
++1	./private/var/db/uuidtext/72
++1	./private/var/db/uuidtext/56
++1	./Users/tianhan/Library/Trial/Experiments
++1	./Users/tianhan/Library/Logs/Homebrew
++1	./opt/homebrew/share/info
++1	./opt/homebrew/etc/unbound
++1	./opt/homebrew/etc/pkcs11
++1	./opt/homebrew/etc/gnutls
++1	./opt/homebrew/etc/fonts/conf.d
++1	./opt/homebrew/etc/ca-certificates
++1	./opt/homebrew/Cellar/speex/1.2.0
++1	./opt/homebrew/Cellar/snappy/1.1.9
++1	./opt/homebrew/Cellar/rubberband/1.9.2
++1	./opt/homebrew/Cellar/pkg-config/0.29.2_3
++1	./opt/homebrew/Cellar/pixman/0.40.0
++1	./opt/homebrew/Cellar/opus/1.3.1
++1	./opt/homebrew/Cellar/opencore-amr/0.1.5
++1	./opt/homebrew/Cellar/m4/1.4.19
++1	./opt/homebrew/Cellar/lzo/2.10
++1	./opt/homebrew/Cellar/libxrender/0.9.10
++1	./opt/homebrew/Cellar/libxext/1.3.4
++1	./opt/homebrew/Cellar/libxdmcp/1.1.3
++1	./opt/homebrew/Cellar/libxau/1.0.9
++1	./opt/homebrew/Cellar/libvidstab/1.1.0
++1	./opt/homebrew/Cellar/libtasn1/4.17.0
++1	./opt/homebrew/Cellar/libsoxr/0.1.3
++1	./opt/homebrew/Cellar/libsodium/1.0.18_1
++1	./opt/homebrew/Cellar/libpthread-stubs/0.4
++1	./opt/homebrew/Cellar/libogg/1.3.5
++1	./opt/homebrew/Cellar/libnghttp2/1.45.1
++1	./opt/homebrew/Cellar/libffi/3.3_3
++1	./opt/homebrew/Cellar/libass/0.15.2
++1	./opt/homebrew/Cellar/graphite2/1.3.14
++1	./opt/homebrew/Cellar/giflib/5.2.1
++1	./opt/homebrew/Cellar/fribidi/1.0.11
++1	./opt/homebrew/Cellar/ca-certificates/2021-09-30
++1	./Users/tianhan/Pictures/Photo Booth Library/Contents
++1	./Users/tianhan/Music/网易云音乐/meta
++1	./Users/tianhan/Library/Saved Application State/com.oracle.java.8u291.java.savedState
++1	./Users/tianhan/Library/Saved Application State/com.hnc.Discord.savedState
++1	./Users/tianhan/Library/Saved Application State/com.electron.dockerdesktop.savedState
++1	./Users/tianhan/Library/Messages/Attachments
++1	./Users/tianhan/Library/Group Containers/group.com.google.drivefs
++1	./Users/tianhan/Library/Group Containers/EQHXZ8M8AV.com.google.drivefs.fpext
++1	./Users/tianhan/Library/Containers/com.google.drivefs.fpext
++1	./Users/tianhan/Library/Containers/com.google.drivefs.finderhelper.findersync
++1	./Users/tianhan/Library/Caches/softwareupdate
++1	./Users/tianhan/Library/Caches/pip
++1	./Users/tianhan/Library/Caches/google-sdks-events
++1	./Users/tianhan/Library/Caches/com.crashlytics.data
++1	./Users/tianhan/Library/Caches/com.cleverfiles.DiskDrill
++1	./Users/tianhan/Library/Caches/com.apple.navd
++1	./Users/tianhan/Library/Caches/com.apple.MobileSMS
++1	./Users/tianhan/Library/Caches/com.apphousekitchen.aldente-pro
++1	./Users/tianhan/Library/Caches/chrome_crashpad_handler
++1	./Users/tianhan/Library/Application Support/com.netease.163music
++1	./Users/tianhan/Library/Application Support/AlDente
++1	./Users/tianhan/GoogleDrive
++1	./Users/tianhan/Documents/workspace/Export-NeteaseMusic-Playlist
++1	./Users/tianhan/Desktop/pldi2022/bectex
++1	./Users/tianhan/.vscode/extensions/ms-vscode-remote.remote-wsl-0.58.4
++1	./Users/tianhan/.vscode/extensions/mousetraps.selected-character-count-0.0.1
++1	./Users/tianhan/.sdkman/var/metadata
++1	./Users/tianhan/.sdkman/src
++1	./Users/tianhan/.sdkman/etc
++1	./Users/tianhan/.sdkman/contrib/completion
++1	./Users/tianhan/.sdkman/bin
++1	./System/Volumes/Data/Applications/Google Slides.app
++1	./System/Volumes/Data/Applications/Google Sheets.app
++1	./System/Volumes/Data/Applications/Google Docs.app
++1	./System/Library/AssetsV2/com_apple_MobileAsset_LinguisticData/1fac987befc9904e7c2d79fd527c0dc938b5b292.asset
++1	./Library/Logs/CleverFiles
++1	./Library/Google/GoogleSoftwareUpdate/TicketStore
++1	./Library/Google/DriveFS/dfsfuse.kext/Contents
++1	./Library/Application Support/Google/DriveFS
++1	./Applications/WeChat.app/Contents/Resources/SnsNotificationViewController.nib
++1	./Applications/WeChat.app/Contents/Resources/SnsFeedListViewController.nib
++1	./Applications/WeChat.app/Contents/Resources/SnsFeedCarViewController.nib
++1	./Applications/WeChat.app/Contents/Resources/SnsAlbumListViewController.nib
++1	./Applications/WeChat.app/Contents/Resources/MMWebSearchViewController.nib
++1	./Applications/WeChat.app/Contents/Resources/MMVoIPDeviceController.nib
++1	./Applications/WeChat.app/Contents/Resources/MMFileListViewController.nib
++1	./Applications/WeChat.app/Contents/Resources/MMFavoritesViewController.nib
++1	./Applications/WeChat.app/Contents/Resources/MMDynamicConfigWindowController.nib
++1	./Applications/WeChat.app/Contents/Resources/MMChatManagerSessionViewController.nib
++1	./Applications/WeChat.app/Contents/Resources/MMChatManagerDetailViewController.nib
++1	./Applications/WeChat.app/Contents/Resources/MMChatLogDetailViewController.nib
++1	./Applications/WeChat.app/Contents/Resources/MMChatBackupRecoverViewController.nib
++1	./Applications/WeChat.app/Contents/Resources/MMBrandSubMenuViewController.nib
++1	./Applications/WeChat.app/Contents/Resources/MMBrandChatsViewController.nib
++1	./Applications/WeChat.app/Contents/Frameworks/ProtobufLite.framework
++1	./Applications/Stats.app/Contents/Resources/hr.lproj
++1	./Applications/Stats.app/Contents/Frameworks/Bluetooth.framework
++1	./Applications/Skim.app/Contents/Resources/Base.lproj
++1	./Applications/NeteaseMusic.app/Contents/_CodeSignature
++1	./Applications/NeteaseMusic.app/Contents/Resources/zh-Hans.lproj
++1	./Applications/NeteaseMusic.app/Contents/Resources/en.lproj
++1	./Applications/NeteaseMusic.app/Contents/Frameworks/MAC.framework
++1	./Applications/NeteaseMusic.app/Contents/Frameworks/FLAC.framework
++1	./Applications/Microsoft Word.app/Contents/Resources/Arc.bundle
++1	./Applications/Microsoft PowerPoint.app/Contents/Resources/Arc.bundle
++1	./Applications/Microsoft Excel.app/Contents/Resources/Arc.bundle
++1	./Applications/Keynote.app/Contents/Frameworks/KNAnimation.framework
++1	./Applications/Google Slides.app/Contents/_CodeSignature
++1	./Applications/Google Slides.app/Contents/Resources
++1	./Applications/Google Slides.app/Contents/MacOS
++1	./Applications/Google Sheets.app/Contents/_CodeSignature
++1	./Applications/Google Sheets.app/Contents/Resources
++1	./Applications/Google Sheets.app/Contents/MacOS
++1	./Applications/Google Drive.app/Contents/_CodeSignature
++1	./Applications/Google Drive.app/Contents/Resources/zu.lproj
++1	./Applications/Google Drive.app/Contents/Resources/zh_TW.lproj
++1	./Applications/Google Drive.app/Contents/Resources/zh_HK.lproj
++1	./Applications/Google Drive.app/Contents/Resources/zh_CN.lproj
++1	./Applications/Google Drive.app/Contents/Resources/vi.lproj
++1	./Applications/Google Drive.app/Contents/Resources/ur.lproj
++1	./Applications/Google Drive.app/Contents/Resources/uk.lproj
++1	./Applications/Google Drive.app/Contents/Resources/tr.lproj
++1	./Applications/Google Drive.app/Contents/Resources/th.lproj
++1	./Applications/Google Drive.app/Contents/Resources/te.lproj
++1	./Applications/Google Drive.app/Contents/Resources/ta.lproj
++1	./Applications/Google Drive.app/Contents/Resources/sw.lproj
++1	./Applications/Google Drive.app/Contents/Resources/sv.lproj
++1	./Applications/Google Drive.app/Contents/Resources/sr.lproj
++1	./Applications/Google Drive.app/Contents/Resources/sl.lproj
++1	./Applications/Google Drive.app/Contents/Resources/sk.lproj
++1	./Applications/Google Drive.app/Contents/Resources/si.lproj
++1	./Applications/Google Drive.app/Contents/Resources/shortcuts
++1	./Applications/Google Drive.app/Contents/Resources/ru.lproj
++1	./Applications/Google Drive.app/Contents/Resources/ro.lproj
++1	./Applications/Google Drive.app/Contents/Resources/pt_PT.lproj
++1	./Applications/Google Drive.app/Contents/Resources/pt_BR.lproj
++1	./Applications/Google Drive.app/Contents/Resources/pl.lproj
++1	./Applications/Google Drive.app/Contents/Resources/pa.lproj
++1	./Applications/Google Drive.app/Contents/Resources/no.lproj
++1	./Applications/Google Drive.app/Contents/Resources/nl.lproj
++1	./Applications/Google Drive.app/Contents/Resources/ne.lproj
++1	./Applications/Google Drive.app/Contents/Resources/my.lproj
++1	./Applications/Google Drive.app/Contents/Resources/ms.lproj
++1	./Applications/Google Drive.app/Contents/Resources/mr.lproj
++1	./Applications/Google Drive.app/Contents/Resources/mn.lproj
++1	./Applications/Google Drive.app/Contents/Resources/ml.lproj
++1	./Applications/Google Drive.app/Contents/Resources/lv.lproj
++1	./Applications/Google Drive.app/Contents/Resources/lt.lproj
++1	./Applications/Google Drive.app/Contents/Resources/lo.lproj
++1	./Applications/Google Drive.app/Contents/Resources/ko.lproj
++1	./Applications/Google Drive.app/Contents/Resources/kn.lproj
++1	./Applications/Google Drive.app/Contents/Resources/km.lproj
++1	./Applications/Google Drive.app/Contents/Resources/kk.lproj
++1	./Applications/Google Drive.app/Contents/Resources/ka.lproj
++1	./Applications/Google Drive.app/Contents/Resources/ja.lproj
++1	./Applications/Google Drive.app/Contents/Resources/iw.lproj
++1	./Applications/Google Drive.app/Contents/Resources/it.lproj
++1	./Applications/Google Drive.app/Contents/Resources/is.lproj
++1	./Applications/Google Drive.app/Contents/Resources/id.lproj
++1	./Applications/Google Drive.app/Contents/Resources/hy.lproj
++1	./Applications/Google Drive.app/Contents/Resources/hu.lproj
++1	./Applications/Google Drive.app/Contents/Resources/hr.lproj
++1	./Applications/Google Drive.app/Contents/Resources/hi.lproj
++1	./Applications/Google Drive.app/Contents/Resources/gu.lproj
++1	./Applications/Google Drive.app/Contents/Resources/gl.lproj
++1	./Applications/Google Drive.app/Contents/Resources/fr_CA.lproj
++1	./Applications/Google Drive.app/Contents/Resources/fr.lproj
++1	./Applications/Google Drive.app/Contents/Resources/fil.lproj
++1	./Applications/Google Drive.app/Contents/Resources/fi.lproj
++1	./Applications/Google Drive.app/Contents/Resources/fa.lproj
++1	./Applications/Google Drive.app/Contents/Resources/eu.lproj
++1	./Applications/Google Drive.app/Contents/Resources/et.lproj
++1	./Applications/Google Drive.app/Contents/Resources/es_419.lproj
++1	./Applications/Google Drive.app/Contents/Resources/es.lproj
++1	./Applications/Google Drive.app/Contents/Resources/en_GB.lproj
++1	./Applications/Google Drive.app/Contents/Resources/en.lproj
++1	./Applications/Google Drive.app/Contents/Resources/el.lproj
++1	./Applications/Google Drive.app/Contents/Resources/de.lproj
++1	./Applications/Google Drive.app/Contents/Resources/da.lproj
++1	./Applications/Google Drive.app/Contents/Resources/cy.lproj
++1	./Applications/Google Drive.app/Contents/Resources/cs.lproj
++1	./Applications/Google Drive.app/Contents/Resources/ca.lproj
++1	./Applications/Google Drive.app/Contents/Resources/bn.lproj
++1	./Applications/Google Drive.app/Contents/Resources/bg.lproj
++1	./Applications/Google Drive.app/Contents/Resources/be.lproj
++1	./Applications/Google Drive.app/Contents/Resources/az.lproj
++1	./Applications/Google Drive.app/Contents/Resources/ar.lproj
++1	./Applications/Google Drive.app/Contents/Resources/am.lproj
++1	./Applications/Google Drive.app/Contents/Resources/af.lproj
++1	./Applications/Google Docs.app/Contents/_CodeSignature
++1	./Applications/Google Docs.app/Contents/Resources
++1	./Applications/Google Docs.app/Contents/MacOS
++1	./Applications/Foxit PDF Reader.app/Contents/fxplugins/DefaultPluginsRC
++1	./Applications/Discord.app/Contents/_CodeSignature
++1	./Applications/Discord.app/Contents/Resources/bootstrap
++1	./Applications/Discord.app/Contents/MacOS
++1	./Applications/Discord.app/Contents/Frameworks/Squirrel.framework
++1	./Applications/Discord.app/Contents/Frameworks/ReactiveObjC.framework
++1	./Applications/Discord.app/Contents/Frameworks/Mantle.framework
++1	./Applications/Discord.app/Contents/Frameworks/Discord Helper.app
++1	./Applications/Discord.app/Contents/Frameworks/Discord Helper (Renderer).app
++1	./Applications/Discord.app/Contents/Frameworks/Discord Helper (Plugin).app
++1	./Applications/Discord.app/Contents/Frameworks/Discord Helper (GPU).app
+-1	./Applications/Microsoft Word.app/Contents/Frameworks/mso99.framework
+-1	./Applications/Microsoft PowerPoint.app/Contents/Frameworks/mso99.framework
+-1	./Applications/Microsoft Excel.app/Contents/Frameworks/mso99.framework
+-1	./Applications/Microsoft Word.app/Contents/SharedSupport/Open XML for Excel.app
+-1	./Applications/Microsoft PowerPoint.app/Contents/SharedSupport/Open XML for Excel.app
+-1	./Applications/Microsoft PowerPoint.app/Contents/MacOS
+-1	./Applications/Microsoft Word.app/Contents/Frameworks/Chart.framework
+-1	./Applications/Microsoft PowerPoint.app/Contents/Frameworks/Chart.framework
+-1	./Applications/Microsoft Excel.app/Contents/Frameworks/Chart.framework
+-1	./Applications/Firefox.app/Contents/Resources/browser
+-1	./private/var/log/powermanagement
+-1	./Applications/Microsoft Word.app/Contents/Frameworks/osf.framework
+-1	./Applications/Microsoft PowerPoint.app/Contents/Frameworks/osf.framework
+-1	./Applications/Microsoft Excel.app/Contents/Frameworks/osf.framework
+-1	./private/var/root/Library/Caches
+-1	./Users/tianhan/Library/Application Support/AddressBook
+-1	./Users/tianhan/Pictures/Photos Library.photoslibrary/database
+-1	./Users/tianhan/Library/Accounts
+-1	./Library/Caches/Desktop Pictures/7D0905F4-DE20-4CB6-A914-85DD1443E8D9
+-1	./Users/tianhan/Library/Saved Application State/com.apple.Terminal.savedState
+-1	./private/var/db/uuidtext/8F
+-1	./private/var/db/uuidtext/2D
+-1	./private/var/db/uuidtext/D5
+-1	./Users/tianhan/Library/Application Support/Oracle
+-1	./Users/tianhan/.Trash
+-1	./System/Volumes/Hardware
+-2	./System/Volumes/Data/Applications/Microsoft Word.app
+-2	./System/Volumes/Data/Applications/Microsoft Excel.app
+-2	./Users/tianhan/Library/Keychains/B8656EF3-B403-5ADB-8B91-31971DFBAED9
+-2	./Users/tianhan/Library/Caches/com.apple.Spotlight
+-2	./private/var/protected/sfanalytics/FFFFEEEE-DDDD-CCCC-BBBB-AAAA0000011A
+-2	./Users/tianhan/Library/Suggestions/pending
+-2	./Users/tianhan/Library/Containers/com.apple.CalendarAgent
+-2	./System/Volumes/Data/.DocumentRevisions-V100/db-V1
+-2	./Users/tianhan/Library/Application Support/BetterTouchTool
+-2	./private/var/db/uuidtext/AB
+-2	./Users/tianhan/Library/Caches/com.apple.ap.adprivacyd
+-3	./System/Volumes/Data/Applications/Microsoft PowerPoint.app
+-3	./System/Volumes/Data/Applications/Numbers.app
+-3	./private/var/db/analyticsd
+-3	./Users/tianhan/Library/Containers/com.apple.stocks.widget
+-3	./private/var/db/uuidtext/FE
+-3	./private/var/db/uuidtext/9C
+-3	./private/var/db/uuidtext/8D
+-3	./System/Library/AssetsV2/com_apple_MobileAsset_SoftwareUpdateDocumentation
+-4	./private/var/db/uuidtext/DF
+-4	./private/var/db/uuidtext/9A
+-4	./private/var/db/uuidtext/20
+-4	./Users/tianhan/Library/Application Support/com.apple.transparencyd
+-6	./System/Volumes/Data/Applications/Pages.app
+-6	./Applications/Firefox.app/Contents/MacOS
+-6	./System/Volumes/xarts
+-7	./System/Volumes/Update
+-8	./System/Volumes/Data/Applications/Firefox.app
+-8	./System/Volumes/iSCPreboot
+-9	./Applications/Spotify.app/Contents/MacOS
+-9	./Users/tianhan/Library/Google/GoogleSoftwareUpdate
+-10	./Applications/Pages.app/Contents/Resources/FunctionHelp.bundle
+-10	./Applications/Numbers.app/Contents/Resources/FunctionHelp.bundle
+-10	./Applications/Keynote.app/Contents/Resources/FunctionHelp.bundle
+-13	./Users/tianhan/Library/Caches/Firefox
+-15	./private/var/db/systemstats
+-25	./System/Volumes/Data/.DocumentRevisions-V100/.cs
+-48	./private/var/db/diagnostics/Signpost
+-66	./System/Volumes/Data/Library/Logs
+-66	./Library/Logs/CrashReporter/CoreCapture
+-76	./Users/tianhan/Library/Caches/Google
+-139	./Users/tianhan/Library/Application Support/Code
+-218	./System/Volumes/Data/Library/Internet Plug-Ins
+-218	./Library/Internet Plug-Ins
+-219	./System/Volumes/Preboot
+-317	./System/Volumes/Data/Library/Java
+-317	./Library/Java/JavaVirtualMachines
+-1488	./System/Volumes/Data/.Spotlight-V100/Store-V2
+
+
+-----------------------------
+Total size increased (MB): 38200
+-----------------------------

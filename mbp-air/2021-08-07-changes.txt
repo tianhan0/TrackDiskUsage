@@ -1,0 +1,236 @@
++6372	./System/Volumes/Data/Users/tianhan
++1520	./Users/tianhan/Library/Containers/com.docker.docker
++1073	./Users/tianhan/Library/Caches/com.spotify.client
++509	./Users/tianhan/Documents/workspace/industry
++415	./Users/tianhan/.gradle/wrapper/dists
++414	./Users/tianhan/Library/Caches/JetBrains
++399	./System/Volumes/Data/Applications/Foxit PDF Reader.app
++358	./Users/tianhan/.gradle/caches/modules-2
++353	./Users/tianhan/.gradle/caches/jars-8
++273	./Users/tianhan/Library/Caches/vscode-cpptools
++232	./Users/tianhan/Documents/workspace/literature
++218	./Users/tianhan/dwhelper
++193	./Users/tianhan/Library/Application Support/Code
++192	./Users/tianhan/Library/Application Support/Slack
++185	./private/var/db/diagnostics/Special
++183	./Users/tianhan/Library/Containers/com.tencent.xinWeChat
++177	./System/Volumes/Data/private/var
++152	./Users/tianhan/Library/Application Support/JetBrains
++139	./Applications/Foxit PDF Reader.app/Contents/Frameworks/QtWebEngineCore.framework
++132	./Users/tianhan/.m2/repository/org
++120	./Users/tianhan/Google Drive/tianhans-papers-repo/talks
++108	./Users/tianhan/Library/Application Support/Google
++92	./System/Volumes/Data/System/Library
++78	./Users/tianhan/.vscode/extensions/ms-toolsai.jupyter-2021.8.1195043623
++74	./Users/tianhan/.vscode/extensions/ms-python.python-2021.8.1105858891
++74	./Users/tianhan/.vscode/extensions/ms-python.python-2021.8.1102490946
++60	./Users/tianhan/.vscode/extensions/ms-python.vscode-pylance-2021.8.0
++56	./System/Library/AssetsV2/com_apple_MobileAsset_LinguisticData/954461007ec0e1726b85121da24205a7f50c327a.asset
++55	./Users/tianhan/Google Drive/tianhans-papers-repo/misc
++54	./Applications/Foxit PDF Reader.app/Contents/fxplugins
++38	./System/Library/Caches/com.apple.coresymbolicationd
++37	./System/Volumes/Data/Library/Application Support
++37	./System/Volumes/Data/.fseventsd
++37	./Library/Application Support/Foxit Software/FoxitService/FoxitPDFReaderUpdateService.app
++32	./Users/tianhan/Google Drive/tianhans-papers-repo/sent reviews
++25	./System/Volumes/Data/.DocumentRevisions-V100/.cs
++22	./Users/tianhan/Documents/workspace/brbo-paper
++17	./System/Volumes/Data/.Spotlight-V100/Store-V2
++16	./Users/tianhan/.m2/repository/net
++13	./System/Volumes/Data/.DocumentRevisions-V100/db-V1
++12	./private/var/db/diagnostics/Signpost
++11	./Users/tianhan/Desktop
++11	./private/var/db/systemstats
++11	./Users/tianhan/.m2/repository/io
++11	./Applications/Foxit PDF Reader.app/Contents/MacOS/Activation.app
++10	./Users/tianhan/Google Drive/tianhans-papers-repo/proposal exam
++10	./Applications/Foxit PDF Reader.app/Contents/Resources/stamps
++10	./Applications/Foxit PDF Reader.app/Contents/Resources/lang
++10	./Applications/Foxit PDF Reader.app/Contents/Resources/javascript
++10	./Applications/Foxit PDF Reader.app/Contents/MacOS/SendCrashReport.app
++9	./Applications/Foxit PDF Reader.app/Contents/MacOS/countinstalltion.app
++8	./private/var/folders/gm/4hbx6y416bd_8mhqfj8hz8v40000gn
++8	./System/Volumes/Data/Applications/zoom.us.app
++7	./Users/tianhan/Library/Caches/Firefox
++7	./Users/tianhan/.vscode/extensions/vscjava.vscode-java-pack-0.18.2
++6	./Applications/Visual Studio Code.app/Contents/Resources/app
++6	./Users/tianhan/Library/Containers/com.apple.Safari
++6	./Applications/Foxit PDF Reader.app/Contents/Resources/start
++6	./Applications/Foxit PDF Reader.app/Contents/Resources/lex
++6	./Applications/Foxit PDF Reader.app/Contents/Frameworks/QtWidgets.framework
++6	./Applications/Foxit PDF Reader.app/Contents/Frameworks/QtGui.framework
++6	./Applications/Foxit PDF Reader.app/Contents/Frameworks/QtCore.framework
++5	./System/Volumes/Data/Applications/Google Chrome.app
++5	./private/var/protected/sfanalytics/FFFFEEEE-DDDD-CCCC-BBBB-AAAA0000011A
++5	./Applications/Foxit PDF Reader.app/Contents/Frameworks/QtQuick.framework
++5	./Applications/Foxit PDF Reader.app/Contents/Frameworks/QtQml.framework
++4	./Users/tianhan/Google Drive/CUBoulder/papers
++4	./Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework
++4	./private/var/db/uuidtext/21
++4	./Users/tianhan/.vscode/extensions/ms-vscode-remote.remote-containers-0.191.0
++4	./Applications/Foxit PDF Reader.app/Contents/PlugIns/virtualkeyboard
++4	./Applications/Foxit PDF Reader.app/Contents/Frameworks/ADAL.framework
++3	./System/Volumes/Data/Library/Caches
++3	./Library/Caches/com.apple.iconservices.store
++3	./Users/tianhan/Library/Application Support/Adobe
++3	./Users/tianhan/Library/Containers/com.apple.iWork.Keynote
++3	./Applications/zoom.us.app/Contents/Frameworks/zSIPSDK.bundle
++3	./private/var/db/uuidtext/00
++3	./Users/tianhan/.m2/repository/mysql
++3	./Applications/Foxit PDF Reader.app/Contents/Frameworks/MSRightsManagement.framework
++2	./Users/tianhan/Pictures/Photos Library.photoslibrary/resources
++2	./Users/tianhan/Library/Caches/com.apple.helpd
++2	./private/var/db/SystemPolicyConfiguration
++2	./private/var/root/Library/Caches
++2	./private/var/audit
++2	./Users/tianhan/Library/Application Support/CloudDocs
++2	./Users/tianhan/Library/Application Support/AddressBook
++2	./private/var/protected/sfanalytics/7D0905F4-DE20-4CB6-A914-85DD1443E8D9
++2	./private/var/db/CoreDuet/People
++2	./Users/tianhan/Library/Caches/com.apple.itunescloudd
++2	./Users/tianhan/Documents/workspace/thesis-proposal
++2	./System/Volumes/Update
++2	./private/var/db/uuidtext/AB
++2	./Users/tianhan/Library/Trial/v5
++2	./Users/tianhan/Library/KeyboardServices
++2	./Users/tianhan/Library/Caches/com.apple.ap.adprivacyd
++2	./Users/tianhan/Library/Caches/com.apple.amsaccountsd
++2	./Users/tianhan/Library/Accounts
++2	./Users/tianhan/.m2/repository/cn
++2	./Users/tianhan/.gradle/daemon/6.7.1
++2	./Applications/Foxit PDF Reader.app/Contents/PlugIns/sqldrivers
++2	./Applications/Foxit PDF Reader.app/Contents/PlugIns/platforms
++2	./Applications/Foxit PDF Reader.app/Contents/PlugIns/imageformats
++2	./Applications/Foxit PDF Reader.app/Contents/MacOS/updater.app
++2	./Applications/Foxit PDF Reader.app/Contents/Frameworks/QtNetwork.framework
++1	./System/Volumes/Data/Applications/Spotify.app
++1	./private/var/db/receipts
++1	./Users/tianhan/Library/Application Support/Foxit Software
++1	./Users/tianhan/Library/Caches/com.colliderli.iina
++1	./Applications/Spotify.app/Contents/MacOS
++1	./Users/tianhan/Library/Caches/GeoServices
++1	./Users/tianhan/Library/Containers/com.microsoft.Word
++1	./Applications/zoom.us.app/Contents/Frameworks/zMacResRetina.bundle
++1	./Applications/zoom.us.app/Contents/Resources
++1	./Users/tianhan/Library/HomeKit
++1	./Users/tianhan/Documents/workspace/TrackDiskUsage
++1	./Users/tianhan/Library/Suggestions/pending
++1	./Users/tianhan/Library/Caches/com.apple.AppleMediaServicesUI
++1	./Users/tianhan/Library/Caches/com.apple.AMPLibraryAgent
++1	./Users/tianhan/Library/Application Support/com.apple.transparencyd
++1	./Applications/zoom.us.app/Contents/Frameworks/zWebService.bundle
++1	./Users/tianhan/Library/Reminders/Container_v1
++1	./Users/tianhan/Library/Logs/JetBrains
++1	./Users/tianhan/Library/IdentityServices
++1	./Users/tianhan/Library/Caches/com.apple.nbagent
++1	./Users/tianhan/Library/Application Support/com.apple.ProtectedCloudStorage
++1	./Users/tianhan/.m2/repository/commons-codec
++1	./Applications/zoom.us.app/Contents/Frameworks/zVideoApp.bundle
++1	./private/var/db/uuidtext/BD
++1	./Users/tianhan/.zsh_sessions
++1	./Users/tianhan/.m2/repository/javax
++1	./Users/tianhan/.m2/repository/commons-lang
++1	./Users/tianhan/.m2/repository/ch
++1	./Applications/zoom.us.app/Contents/Frameworks/libPhoneNumbermacOS.framework
++1	./private/var/spool/cups/tmp
++1	./private/etc/cups/certs
++1	./Users/tianhan/Library/Messages/Drafts
++1	./Users/tianhan/Library/LanguageModeling/tr-dynamic.lm
++1	./Users/tianhan/.m2/repository/stax
++1	./Users/tianhan/.m2/repository/ognl
++1	./Users/tianhan/.m2/repository/joda-time
++1	./Users/tianhan/.m2/repository/jakarta
++1	./Users/tianhan/.m2/repository/cglib
++1	./Users/tianhan/.gradle/native/fdc75f09e3144964f2cf3f50f0aa648679c211496f362492102eb8c894070792
++1	./Users/tianhan/.gradle/native/12488b8bf47d2d4c9fbf2f6322a914ad602e24e48041cd04a747c6da556b65c4
++1	./Users/tianhan/.gradle/caches/6.7.1
++1	./System/Library/AssetsV2/staging
++1	./System/Library/AssetsV2/com_apple_MobileAsset_LinguisticData/0d45036c952b6740daa34646075407f48c3116c4.asset
++1	./Applications/zoom.us.app/Contents/Frameworks/zVideoUIEx.bundle
++1	./Applications/zoom.us.app/Contents/Frameworks/zSipCallAudioCtrl.bundle
++1	./Applications/zoom.us.app/Contents/Frameworks/zChatUIEx.bundle
++1	./Applications/Foxit PDF Reader.app/Contents/_CodeSignature
++1	./Applications/Foxit PDF Reader.app/Contents/Resources/zh_CN.lproj
++1	./Applications/Foxit PDF Reader.app/Contents/Resources/welcome
++1	./Applications/Foxit PDF Reader.app/Contents/Resources/ko.lproj
++1	./Applications/Foxit PDF Reader.app/Contents/Resources/ja.lproj
++1	./Applications/Foxit PDF Reader.app/Contents/Resources/it.lproj
++1	./Applications/Foxit PDF Reader.app/Contents/Resources/fr.lproj
++1	./Applications/Foxit PDF Reader.app/Contents/Resources/es.lproj
++1	./Applications/Foxit PDF Reader.app/Contents/Resources/en.lproj
++1	./Applications/Foxit PDF Reader.app/Contents/Resources/de.lproj
++1	./Applications/Foxit PDF Reader.app/Contents/Resources/auiresources
++1	./Applications/Foxit PDF Reader.app/Contents/Resources/Wrappers
++1	./Applications/Foxit PDF Reader.app/Contents/Resources/License
++1	./Applications/Foxit PDF Reader.app/Contents/PlugIns/styles
++1	./Applications/Foxit PDF Reader.app/Contents/PlugIns/printsupport
++1	./Applications/Foxit PDF Reader.app/Contents/PlugIns/position
++1	./Applications/Foxit PDF Reader.app/Contents/PlugIns/platforminputcontexts
++1	./Applications/Foxit PDF Reader.app/Contents/PlugIns/mediaservice
++1	./Applications/Foxit PDF Reader.app/Contents/PlugIns/iconengines
++1	./Applications/Foxit PDF Reader.app/Contents/PlugIns/bearer
++1	./Applications/Foxit PDF Reader.app/Contents/PlugIns/audio
++1	./Applications/Foxit PDF Reader.app/Contents/Frameworks/QtXml.framework
++1	./Applications/Foxit PDF Reader.app/Contents/Frameworks/QtWebEngineWidgets.framework
++1	./Applications/Foxit PDF Reader.app/Contents/Frameworks/QtWebChannel.framework
++1	./Applications/Foxit PDF Reader.app/Contents/Frameworks/QtVirtualKeyboard.framework
++1	./Applications/Foxit PDF Reader.app/Contents/Frameworks/QtSvg.framework
++1	./Applications/Foxit PDF Reader.app/Contents/Frameworks/QtSql.framework
++1	./Applications/Foxit PDF Reader.app/Contents/Frameworks/QtSerialPort.framework
++1	./Applications/Foxit PDF Reader.app/Contents/Frameworks/QtQuickWidgets.framework
++1	./Applications/Foxit PDF Reader.app/Contents/Frameworks/QtPrintSupport.framework
++1	./Applications/Foxit PDF Reader.app/Contents/Frameworks/QtPositioning.framework
++1	./Applications/Foxit PDF Reader.app/Contents/Frameworks/QtOpenGL.framework
++1	./Applications/Foxit PDF Reader.app/Contents/Frameworks/QtMultimediaWidgets.framework
++1	./Applications/Foxit PDF Reader.app/Contents/Frameworks/QtMultimedia.framework
++1	./Applications/Foxit PDF Reader.app/Contents/Frameworks/QtDBus.framework
++1	./Applications/Foxit PDF Reader.app/Contents/Frameworks/QtConcurrent.framework
+-1	./Users/tianhan/Library/Application Support/Firefox
+-1	./private/var/log/asl
+-1	./Users/tianhan/Library/Metadata/CoreSpotlight
+-1	./Users/tianhan/Library/Assistant
+-1	./Applications/zoom.us.app/Contents/Frameworks/zChatUI.bundle
+-1	./private/var/log/DiagnosticMessages
+-1	./private/var/protected/sfanalytics/FFFFEEEE-DDDD-CCCC-BBBB-AAAA00000059
+-1	./Users/tianhan/Library/Containers/com.apple.weather.widget
+-1	./private/var/protected/sfanalytics/FFFFEEEE-DDDD-CCCC-BBBB-AAAA000000CD
+-1	./Users/tianhan/Library/Containers/com.apple.iCal.CalendarWidgetExtension
+-1	./Library/Logs/DiagnosticReports
+-1	./private/var/db/uuidtext/57
+-1	./private/var/db/uuidtext/04
+-1	./Applications/Visual Studio Code.app/Contents/Frameworks/Squirrel.framework
+-1	./Applications/Visual Studio Code.app/Contents/Frameworks/ReactiveObjC.framework
+-1	./Users/tianhan/Library/Saved Application State/com.jetbrains.intellij.ce.savedState
+-2	./Users/tianhan/Library/Caches/CloudKit
+-2	./Users/tianhan/Library/Caches/com.apple.Spotlight
+-2	./Users/tianhan/Library/PersonalizationPortrait
+-2	./Users/tianhan/Library/Application Support/BetterTouchTool
+-3	./Applications/Visual Studio Code.app/Contents/Frameworks/Electron Framework.framework
+-3	./Users/tianhan/Library/Application Support/zoom.us
+-3	./private/var/log/powermanagement
+-3	./Users/tianhan/Library/Containers/com.apple.stocks.widget
+-3	./Users/tianhan/Library/SyncedPreferences/com.apple.kvs
+-3	./Users/tianhan/Library/Caches/com.apple.touristd
+-3	./private/var/db/uuidtext/FA
+-3	./private/var/db/uuidtext/8A
+-3	./private/var/db/uuidtext/08
+-3	./Users/tianhan/Library/Caches/com.apple.transparencyd
+-3	./Users/tianhan/Library/Application Support/CallHistoryDB
+-4	./Users/tianhan/Library/Group Containers/UBF8T346G9.Office
+-4	./private/var/db/uuidtext/6B
+-4	./private/var/db/uuidtext/1D
+-4	./Users/tianhan/Library/Caches/com.apple.akd
+-5	./Users/tianhan/Library/Containers/com.tencent.qq
+-7	./Users/tianhan/Library/Containers/com.microsoft.Powerpoint
+-10	./private/var/db/diagnostics/Persist
+-11	./private/var/db/powerlog/Library
+-89	./Users/tianhan/Library/Caches/Google
+-106	./Users/tianhan/Library/Application Support/Spotify
+-186	./System/Volumes/Data/Library/Logs
+-186	./Library/Logs/CrashReporter/CoreCapture/WiFi
+-2048	./System/Volumes/VM
+
+
+-----------------------------
+Total size increased (MB): 12200
+-----------------------------

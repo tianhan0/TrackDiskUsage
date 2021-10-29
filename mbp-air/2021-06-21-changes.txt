@@ -1,0 +1,363 @@
++5267	./System/Volumes/Data/Users/tianhan
++1897	./Users/tianhan/Google Drive/Health/Workout
++1493	./Users/tianhan/Library/Caches/com.spotify.client
++785	./System/Volumes/Data/private/var
++612	./Users/tianhan/Library/Application Support/Microsoft
++565	./Users/tianhan/Documents/workspace/academic-milestones
++540	./System/Volumes/Data/Applications/Adobe Acrobat Reader DC.app
++483	./private/var/db/diagnostics/Signpost
++432	./System/Volumes/Data/Applications/Google Chrome.app
++431	./Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework
++306	./System/Volumes/Data/System/Library
++306	./System/Library/Caches/com.apple.coresymbolicationd
++260	./private/var/folders/gm/4hbx6y416bd_8mhqfj8hz8v40000gn
++245	./Users/tianhan/Library/Containers/com.tencent.xinWeChat
++177	./private/var/db/diagnostics/Special
++162	./Applications/Adobe Acrobat Reader DC.app/Contents/Frameworks/Chromium Embedded Framework.framework
++143	./Library/Application Support/Adobe/Reader/DC
++114	./Users/tianhan/Library/Caches/Google
++106	./System/Volumes/Data/Library/Application Support
++101	./Users/tianhan/dwhelper
++84	./Users/tianhan/Library/Application Support/Code
++80	./Library/Caches/com.apple.iconservices.store
++77	./System/Volumes/Data/Library/Caches
++68	./Applications/Adobe Acrobat Reader DC.app/Contents/Resources/Resource
++54	./Users/tianhan/.vscode/extensions/james-yu.latex-workshop-8.19.2
++49	./System/Volumes/Data/Applications/BetterTouchTool.app
++44	./System/Volumes/Data/.fseventsd
++38	./Applications/Adobe Acrobat Reader DC.app/Contents/Frameworks/Acrobat.framework
++37	./Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/AcroForm.acroplugin
++36	./Users/tianhan/Library/Application Support/Firefox
++29	./Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Comments.acroplugin
++27	./System/Volumes/Data/.Spotlight-V100/Store-V2
++22	./Users/tianhan/Library/Containers/com.docker.docker
++21	./Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/PPKLite.acroplugin
++20	./Applications/BetterTouchTool.app/Contents/MacOS
++18	./Users/tianhan/Library/Application Support/Google
++16	./Users/tianhan/Google Drive/Backup/mac
++16	./System/Volumes/Data/Library/Logs
++14	./Applications/Adobe Acrobat Reader DC.app/Contents/Helpers/AdobeResourceSynchronizer.app
++13	./Library/Logs/CrashReporter/CoreCapture/WiFi
++11	./Users/tianhan/Library/Application Support/Adobe
++11	./Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/MakeAccessible.acroplugin
++10	./Applications/Adobe Acrobat Reader DC.app/Contents/Frameworks/Adobe3D.framework
++9	./Users/tianhan/Google Drive/CUBoulder/papers
++9	./private/var/db/systemstats
++8	./Users/tianhan/Library/Containers/com.apple.stocks
++8	./private/var/log/powermanagement
++7	./Users/tianhan/Google Drive/Kindle/CS
++7	./Applications/Slack.app/Contents/Resources/app.asar.unpacked
++7	./Applications/BetterTouchTool.app/Contents/Resources/icons
++7	./Applications/Adobe Acrobat Reader DC.app/Contents/Frameworks/ICUData.framework
++6	./Users/tianhan/Google Drive/tianhans-papers-repo/meeting docs
++6	./Users/tianhan/Library/Caches/com.apple.appstoreagent
++6	./Users/tianhan/Library/Application Support/BetterTouchTool
++6	./Applications/Adobe Acrobat Reader DC.app/Contents/Helpers/AcroCEF
++6	./Applications/Adobe Acrobat Reader DC.app/Contents/Frameworks/RdrCEF Helper.app
++6	./Applications/Adobe Acrobat Reader DC.app/Contents/Frameworks/AdobeAGM.framework
++5	./private/var/folders/zz/zyxvpxvq6csfxvn_n00000b000002r
++5	./Users/tianhan/Library/Caches/com.apple.helpviewer
++5	./Users/tianhan/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.7
++5	./System/Volumes/Data/Applications/AlDente.app
++5	./Applications/Adobe Acrobat Reader DC.app/Contents/Resources/NGL
++5	./Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Multimedia.acroplugin
++5	./Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/EScript.acroplugin
++5	./Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/DigSig.acroplugin
++4	./System/Volumes/Data/Applications/Microsoft Word.app
++4	./Applications/Docker.app/Contents/Resources/bin
++4	./private/var/db/uuidtext/A2
++4	./private/var/db/uuidtext/24
++4	./private/var/db/CoreDuet/People
++4	./Applications/AlDente.app/Contents/Frameworks/Sparkle.framework
++4	./Applications/Adobe Acrobat Reader DC.app/Contents/Resources/JavaScripts
++4	./Applications/Adobe Acrobat Reader DC.app/Contents/Resources/AcroApp
++4	./Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/SendMail.acroplugin
++4	./Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Checkers.acroplugin
++4	./Applications/Adobe Acrobat Reader DC.app/Contents/Frameworks/EULA.framework
++4	./Applications/Adobe Acrobat Reader DC.app/Contents/Frameworks/AdobeCoolType.framework
++3	./System/Volumes/Data/Applications/Microsoft PowerPoint.app
++3	./Users/tianhan/Library/Calendars
++3	./Users/tianhan/Library/Containers/com.apple.iWork.Keynote
++3	./Users/tianhan/Library/Containers/com.apple.news.widget
++3	./private/var/root/Library/Caches
++3	./private/var/protected/sfanalytics/FFFFEEEE-DDDD-CCCC-BBBB-AAAA000000CD
++3	./private/var/db/uuidtext/2A
++3	./private/var/db/uuidtext/08
++3	./Users/tianhan/Library/Application Support/com.apple.transparencyd
++3	./Users/tianhan/Library/Caches/com.apple.transparencyd
++3	./Users/tianhan/.vscode/extensions/ms-vscode-remote.remote-containers-0.183.0
++3	./Applications/BetterTouchTool.app/Contents/Frameworks/Sparkle.framework
++3	./Applications/Adobe Acrobat Reader DC.app/Contents/Support/ReaderUC
++3	./Applications/Adobe Acrobat Reader DC.app/Contents/Support/CryptoRSALibs
++3	./Applications/Adobe Acrobat Reader DC.app/Contents/Support/CryptoComplyLibs
++3	./Applications/Adobe Acrobat Reader DC.app/Contents/Resources/uk.lproj
++3	./Applications/Adobe Acrobat Reader DC.app/Contents/Resources/tr.lproj
++3	./Applications/Adobe Acrobat Reader DC.app/Contents/Resources/swf
++3	./Applications/Adobe Acrobat Reader DC.app/Contents/Resources/ru.lproj
++3	./Applications/Adobe Acrobat Reader DC.app/Contents/Resources/pl.lproj
++3	./Applications/Adobe Acrobat Reader DC.app/Contents/Resources/nl.lproj
++3	./Applications/Adobe Acrobat Reader DC.app/Contents/Resources/it.lproj
++3	./Applications/Adobe Acrobat Reader DC.app/Contents/Resources/hu.lproj
++3	./Applications/Adobe Acrobat Reader DC.app/Contents/Resources/fr.lproj
++3	./Applications/Adobe Acrobat Reader DC.app/Contents/Resources/es.lproj
++3	./Applications/Adobe Acrobat Reader DC.app/Contents/Resources/de.lproj
++3	./Applications/Adobe Acrobat Reader DC.app/Contents/Frameworks/Onix.framework
++3	./Applications/Adobe Acrobat Reader DC.app/Contents/Frameworks/AdobeCrashReporter.framework
++3	./Applications/Adobe Acrobat Reader DC.app/Contents/Frameworks/AIDE.framework
++2	./Users/tianhan/Library/Application Support/Slack
++2	./System/Volumes/Data/Applications/Visual Studio Code.app
++2	./Users/tianhan/Library/Application Support/Kindle
++2	./Users/tianhan/Library/Application Support/CloudDocs
++2	./Users/tianhan/Library/Containers/com.apple.news.tag
++2	./private/var/protected/sfanalytics/FFFFEEEE-DDDD-CCCC-BBBB-AAAA0000011A
++2	./Users/tianhan/Library/Caches/com.microsoft.autoupdate.fba
++2	./Users/tianhan/Library/Caches/com.apple.itunescloudd
++2	./Users/tianhan/Library/Caches/com.colliderli.iina
++2	./Users/tianhan/Library/Caches/GameKit
++2	./private/var/db/uuidtext/79
++2	./Users/tianhan/Library/Caches/com.apple.ap.adprivacyd
++2	./Users/tianhan/Library/Application Support/CallHistoryDB
++2	./Users/tianhan/Library/Caches/com.microsoft.teams
++2	./Users/tianhan/Documents/workspace/brbo2-paper
++2	./Library/Application Support/Adobe/ARMDC/Application
++2	./Applications/BetterTouchTool.app/Contents/Resources/usage-view
++2	./Applications/BetterTouchTool.app/Contents/Frameworks/Ensembles.framework
++2	./Applications/Adobe Acrobat Reader DC.app/Contents/Resources/zh_TW.lproj
++2	./Applications/Adobe Acrobat Reader DC.app/Contents/Resources/zh_CN.lproj
++2	./Applications/Adobe Acrobat Reader DC.app/Contents/Resources/sv.lproj
++2	./Applications/Adobe Acrobat Reader DC.app/Contents/Resources/ro.lproj
++2	./Applications/Adobe Acrobat Reader DC.app/Contents/Resources/pt.lproj
++2	./Applications/Adobe Acrobat Reader DC.app/Contents/Resources/no.lproj
++2	./Applications/Adobe Acrobat Reader DC.app/Contents/Resources/ko.lproj
++2	./Applications/Adobe Acrobat Reader DC.app/Contents/Resources/ja.lproj
++2	./Applications/Adobe Acrobat Reader DC.app/Contents/Resources/fi.lproj
++2	./Applications/Adobe Acrobat Reader DC.app/Contents/Resources/en.lproj
++2	./Applications/Adobe Acrobat Reader DC.app/Contents/Resources/da.lproj
++2	./Applications/Adobe Acrobat Reader DC.app/Contents/Resources/cs.lproj
++2	./Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/SaveAsRTF.acroplugin
++2	./Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Accessibility.acroplugin
++2	./Applications/Adobe Acrobat Reader DC.app/Contents/Frameworks/pe.framework
++2	./Applications/Adobe Acrobat Reader DC.app/Contents/Frameworks/ICUConverter.framework
++2	./Applications/Adobe Acrobat Reader DC.app/Contents/Frameworks/AdobeXMP.framework
++2	./Applications/Adobe Acrobat Reader DC.app/Contents/Frameworks/AdobeLinguistic.framework
++2	./Applications/Adobe Acrobat Reader DC.app/Contents/Frameworks/AdobeExtendScript.framework
++2	./Applications/Adobe Acrobat Reader DC.app/Contents/Frameworks/AdobeAXSLE.framework
++2	./Applications/Adobe Acrobat Reader DC.app/Contents/Frameworks/AdobeACE.framework
++1	./System/Volumes/Data/Applications/Spotify.app
++1	./Applications/Visual Studio Code.app/Contents/Resources/app
++1	./Applications/Microsoft Excel.app/Contents/MacOS
++1	./Applications/Microsoft Word.app/Contents/SharedSupport/Open XML for Excel.app
++1	./Applications/Microsoft PowerPoint.app/Contents/SharedSupport/Open XML for Excel.app
++1	./Users/tianhan/Library/Application Support/zoom.us
++1	./private/var/protected/trustd
++1	./private/var/db/locationd/Library
++1	./Users/tianhan/Library/Caches/GeoServices
++1	./Applications/Spotify.app/Contents/Resources/Apps
++1	./Applications/Microsoft Word.app/Contents/Resources/es.lproj
++1	./Users/tianhan/Library/Application Support/AddressBook
++1	./private/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000
++1	./Users/tianhan/Library/Caches/com.apple.touristd
++1	./private/var/db/DuetActivityScheduler
++1	./Users/tianhan/Library/Containers/com.apple.iCal.CalendarWidgetExtension
++1	./private/var/logs
++1	./Users/tianhan/Library/HomeKit
++1	./Users/tianhan/Library/Caches/com.apple.systempreferences
++1	./Users/tianhan/Library/Caches/com.apple.icloud.fmfd
++1	./Users/tianhan/Documents/workspace/TrackDiskUsage
++1	./Users/tianhan/Library/Caches/com.apple.AppleMediaServicesUI
++1	./private/var/msgs
++1	./private/var/log/cups
++1	./private/var/db/analyticsd/reservoirs
++1	./private/etc/cups/ppd
++1	./Users/tianhan/Library/Caches/com.microsoft.VSCode.ShipIt
++1	./Users/tianhan/Library/Caches/com.apple.commerce
++1	./Users/tianhan/Library/Caches/Mozilla
++1	./System/Volumes/Data/Library/Internet Plug-Ins
++1	./Library/Printers/Icons
++1	./Users/tianhan/Music/Music/Previous Libraries.localized
++1	./Users/tianhan/Movies/TV/Previous Libraries.localized
++1	./Users/tianhan/Library/Saved Application State/us.zoom.xos.savedState
++1	./Users/tianhan/Library/Saved Application State/github.picturama.savedState
++1	./Users/tianhan/Library/Saved Application State/com.microsoft.teams.savedState
++1	./Users/tianhan/Library/Saved Application State/com.adobe.Reader.savedState
++1	./Users/tianhan/Library/Printers/Canon MF240.app
++1	./Users/tianhan/Library/Preferences/Adobe
++1	./Users/tianhan/Library/Logs/Adobe
++1	./Users/tianhan/Library/LanguageModeling/ro-dynamic.lm
++1	./Users/tianhan/Library/LanguageModeling/pt-dynamic.lm
++1	./Users/tianhan/Library/LanguageModeling/nb-dynamic.lm
++1	./Users/tianhan/Library/LanguageModeling/fi-dynamic.lm
++1	./Users/tianhan/Library/LanguageModeling/cs-dynamic.lm
++1	./Users/tianhan/Library/Group Containers/UBF8T346G9.com.microsoft.oneauth
++1	./Users/tianhan/Library/Containers/com.sindresorhus.LaunchAtLoginHelper
++1	./Users/tianhan/Library/Caches/com.tinyspeck.slackmacgap.ShipIt
++1	./Users/tianhan/Library/Caches/com.hegenberg.BetterTouchTool
++1	./Users/tianhan/Library/Caches/com.apple.NewDeviceOutreach
++1	./Users/tianhan/Library/Caches/com.adobe.Reader
++1	./Users/tianhan/Library/Caches/Adobe
++1	./Users/tianhan/Library/Caches/Acrobat
++1	./Users/tianhan/Library/Assistant/CustomVocabulary
++1	./Users/tianhan/Library/Application Support/com.bugsnag.Bugsnag
++1	./Users/tianhan/Library/Application Support/com.apple.NewDeviceOutreach
++1	./Users/tianhan/Library/Application Support/Picturama
++1	./Users/tianhan/Documents/workspace/thesis-proposal
++1	./Users/tianhan/.vscode/extensions/ms-vscode-remote.remote-wsl-0.56.5
++1	./Users/tianhan/.vscode/extensions/ms-vscode-remote.remote-ssh-edit-0.65.7
++1	./Users/tianhan/.cups
++1	./System/Library/AssetsV2/com_apple_MobileAsset_VoiceServices_VoiceResources
++1	./System/Library/AssetsV2/com_apple_MobileAsset_VoiceServices_GryphonVoice
++1	./System/Library/AssetsV2/com_apple_MobileAsset_VoiceServices_CustomVoice
++1	./System/Library/AssetsV2/com_apple_MobileAsset_VoiceServices_CombinedVocalizerVoices
++1	./System/Library/AssetsV2/com_apple_MobileAsset_VoiceServicesVocalizerVoice
++1	./System/Library/AssetsV2/com_apple_MobileAsset_MacinTalkVoiceAssets
++1	./Library/Internet Plug-Ins/AdobePDFViewerNPAPI.plugin/Contents/_CodeSignature
++1	./Library/Internet Plug-Ins/AdobePDFViewerNPAPI.plugin/Contents/Resources
++1	./Library/Internet Plug-Ins/AdobePDFViewerNPAPI.plugin/Contents/MacOS
++1	./Library/Internet Plug-Ins/AdobePDFViewer.plugin/Contents/_CodeSignature
++1	./Library/Internet Plug-Ins/AdobePDFViewer.plugin/Contents/Resources
++1	./Library/Internet Plug-Ins/AdobePDFViewer.plugin/Contents/MacOS
++1	./Library/Application Support/Adobe/WebExtnUtils/NativeMessagingHost.app
++1	./Library/Application Support/Adobe/WebExtnUtils/DC_Reader
++1	./Library/Application Support/Adobe/HelpCfg/zh_TW
++1	./Library/Application Support/Adobe/HelpCfg/zh_CN
++1	./Library/Application Support/Adobe/HelpCfg/uk_UA
++1	./Library/Application Support/Adobe/HelpCfg/tr_TR
++1	./Library/Application Support/Adobe/HelpCfg/sv_SE
++1	./Library/Application Support/Adobe/HelpCfg/ru_RU
++1	./Library/Application Support/Adobe/HelpCfg/ro_RO
++1	./Library/Application Support/Adobe/HelpCfg/pt_BR
++1	./Library/Application Support/Adobe/HelpCfg/pl_PL
++1	./Library/Application Support/Adobe/HelpCfg/nl_NL
++1	./Library/Application Support/Adobe/HelpCfg/nb_NO
++1	./Library/Application Support/Adobe/HelpCfg/ko_KR
++1	./Library/Application Support/Adobe/HelpCfg/ja_JP
++1	./Library/Application Support/Adobe/HelpCfg/it_IT
++1	./Library/Application Support/Adobe/HelpCfg/hu_HU
++1	./Library/Application Support/Adobe/HelpCfg/fr_FR
++1	./Library/Application Support/Adobe/HelpCfg/fi_FI
++1	./Library/Application Support/Adobe/HelpCfg/es_ES
++1	./Library/Application Support/Adobe/HelpCfg/en_US
++1	./Library/Application Support/Adobe/HelpCfg/de_DE
++1	./Library/Application Support/Adobe/HelpCfg/da_DK
++1	./Library/Application Support/Adobe/HelpCfg/cs_CZ
++1	./Library/Application Support/Adobe/ARMNext/Application
++1	./Library/Application Support/Adobe/ARMDC/Registered Products
++1	./Applications/BetterTouchTool.app/Contents/_CodeSignature
++1	./Applications/BetterTouchTool.app/Contents/XPCServices/BetterTouchToolShellScriptRunner.xpc
++1	./Applications/BetterTouchTool.app/Contents/XPCServices/BetterTouchToolScriptRunner.xpc
++1	./Applications/BetterTouchTool.app/Contents/XPCServices/BetterTouchToolAppleScriptRunner.xpc
++1	./Applications/BetterTouchTool.app/Contents/Resources/en.lproj
++1	./Applications/BetterTouchTool.app/Contents/Resources/de.lproj
++1	./Applications/BetterTouchTool.app/Contents/Resources/Registration
++1	./Applications/BetterTouchTool.app/Contents/Resources/NewPreferences.storyboardc
++1	./Applications/BetterTouchTool.app/Contents/Resources/IconPicker.storyboardc
++1	./Applications/BetterTouchTool.app/Contents/Resources/EmojiPicker.storyboardc
++1	./Applications/BetterTouchTool.app/Contents/Resources/BetterTouchTool_DataModel.momd
++1	./Applications/BetterTouchTool.app/Contents/Resources/BTTRelaunch.app
++1	./Applications/BetterTouchTool.app/Contents/Resources/BTTPaidUpgradeInfo.storyboardc
++1	./Applications/BetterTouchTool.app/Contents/Resources/BTTHelper.app
++1	./Applications/BetterTouchTool.app/Contents/Resources/BTTGestureMenu.storyboardc
++1	./Applications/BetterTouchTool.app/Contents/Resources/BTTFloatingHTML.storyboardc
++1	./Applications/BetterTouchTool.app/Contents/Resources/BTTFileCollectorStoryboard.storyboardc
++1	./Applications/BetterTouchTool.app/Contents/Resources/BTTClipboardManagerModel.momd
++1	./Applications/BetterTouchTool.app/Contents/Resources/BTTClipboardManager.storyboardc
++1	./Applications/BetterTouchTool.app/Contents/Frameworks/ShortcutRecorder.framework
++1	./Applications/BetterTouchTool.app/Contents/Frameworks/LetsMove.framework
++1	./Applications/AlDente.app/Contents/_CodeSignature
++1	./Applications/AlDente.app/Contents/Resources/Base.lproj
++1	./Applications/AlDente.app/Contents/MacOS
++1	./Applications/AlDente.app/Contents/Library/LoginItems
++1	./Applications/AlDente.app/Contents/Library/LaunchServices
++1	./Applications/Adobe Acrobat Reader DC.app/Contents/_CodeSignature
++1	./Applications/Adobe Acrobat Reader DC.app/Contents/Support/Browser
++1	./Applications/Adobe Acrobat Reader DC.app/Contents/Resources/exv
++1	./Applications/Adobe Acrobat Reader DC.app/Contents/Resources/eve
++1	./Applications/Adobe Acrobat Reader DC.app/Contents/Resources/UIThemes
++1	./Applications/Adobe Acrobat Reader DC.app/Contents/Resources/Tracker
++1	./Applications/Adobe Acrobat Reader DC.app/Contents/Resources/Splash
++1	./Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/eBook.acroplugin
++1	./Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/WebLink.acroplugin
++1	./Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Updater.acroplugin
++1	./Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/StorageConnectors.acroplugin
++1	./Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Spelling.acroplugin
++1	./Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Search.acroplugin
++1	./Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/Reflow.acroplugin
++1	./Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/ReadOutLoud.acroplugin
++1	./Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/PDDom.acroplugin
++1	./Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/EFS.acroplugin
++1	./Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/DropboxStorage.acroplugin
++1	./Applications/Adobe Acrobat Reader DC.app/Contents/Plugins/DVA.acroplugin
++1	./Applications/Adobe Acrobat Reader DC.app/Contents/MacOS
++1	./Applications/Adobe Acrobat Reader DC.app/Contents/Helpers/Assert.app
++1	./Applications/Adobe Acrobat Reader DC.app/Contents/Frameworks/ahclient.framework
++1	./Applications/Adobe Acrobat Reader DC.app/Contents/Frameworks/AdobeScCore.framework
++1	./Applications/Adobe Acrobat Reader DC.app/Contents/Frameworks/AdobeJP2K.framework
++1	./Applications/Adobe Acrobat Reader DC.app/Contents/Frameworks/AdobeBIBUtils.framework
++1	./Applications/Adobe Acrobat Reader DC.app/Contents/Frameworks/AdobeBIB.framework
++1	./Applications/Adobe Acrobat Reader DC.app/Contents/Frameworks/AdobeAXE8SharedExpat.framework
++1	./Applications/Adobe Acrobat Reader DC.app/Contents/Frameworks/AcroSQLite.framework
+-1	./Users/tianhan/Pictures/Photos Library.photoslibrary
+-1	./usr/local/texlive/2021/texmf-var
+-1	./Applications/Firefox.app/Contents/Resources
+-1	./Applications/Microsoft Word.app/Contents/Frameworks/OfficeArt.framework
+-1	./Applications/Microsoft PowerPoint.app/Contents/Frameworks/OfficeArt.framework
+-1	./Applications/Microsoft Excel.app/Contents/Frameworks/OfficeArt.framework
+-1	./Library/Application Support/Microsoft/MAU2.0/Microsoft AutoUpdate.app
+-1	./private/var/log/DiagnosticMessages
+-1	./Users/tianhan/Library/Application Support/Knowledge
+-1	./Applications/Microsoft Excel.app/Contents/_CodeSignature
+-1	./private/var/db/uuidtext/25
+-1	./Users/tianhan/Library/SyncedPreferences/com.apple.kvs
+-1	./Applications/Docker.app/Contents/Frameworks/Sparkle.framework
+-1	./Applications/Microsoft Word.app/Contents/Resources/setupui_bundle.bundle
+-1	./Applications/Microsoft PowerPoint.app/Contents/Resources/setupui_bundle.bundle
+-1	./Applications/Microsoft Excel.app/Contents/Resources/setupui_bundle.bundle
+-1	./private/var/db/uuidtext/B8
+-1	./private/var/db/uuidtext/B4
+-1	./private/var/db/uuidtext/77
+-1	./private/var/db/uuidtext/65
+-1	./private/var/db/uuidtext/54
+-1	./private/var/db/uuidtext/2F
+-1	./Users/tianhan/Library/Saved Application State/com.apple.Terminal.savedState
+-1	./Users/tianhan/Library/Messages
+-1	./Users/tianhan/Library/Logs/DiagnosticReports
+-1	./Applications/Slack.app/Contents/Frameworks/Squirrel.framework
+-1	./Applications/Slack.app/Contents/Frameworks/ReactiveObjC.framework
+-1	./private/var/spool/cups/tmp
+-1	./private/etc/cups/certs
+-1	./Users/tianhan/.Trash
+-2	./private/var/db/powerlog/Library
+-2	./Users/tianhan/Library/Suggestions/pending
+-2	./private/var/db/dslocal/nodes
+-2	./private/var/db/uuidtext/CF
+-3	./System/Volumes/Data/Applications/Microsoft Excel.app
+-3	./private/var/db/diagnostics/Persist
+-3	./Users/tianhan/Library/Keychains/B8656EF3-B403-5ADB-8B91-31971DFBAED9
+-3	./private/var/db/uuidtext/AC
+-3	./Users/tianhan/Library/Containers/com.apple.geod
+-4	./Users/tianhan/Library/Caches/CloudKit
+-4	./Library/Caches/Desktop Pictures/7D0905F4-DE20-4CB6-A914-85DD1443E8D9
+-4	./private/var/protected/sfanalytics/FFFFEEEE-DDDD-CCCC-BBBB-AAAA00000059
+-4	./private/var/db/uuidtext/81
+-5	./Applications/Docker.app/Contents/Resources/linuxkit
+-6	./System/Volumes/Data/Applications/Firefox.app
+-6	./Applications/Firefox.app/Contents/MacOS
+-6	./private/var/db/Spotlight-V100/BootVolume
+-6	./Applications/Microsoft Excel.app/Contents/Resources/sdx
+-7	./System/Volumes/Data/.DocumentRevisions-V100/.cs
+-8	./Applications/Docker.app/Contents/MacOS/Docker Desktop.app
+-14	./Users/tianhan/Documents/workspace/brbo-impl
+-15	./private/var/db/uuidtext/dsc
+-20	./Users/tianhan/Library/Caches/Firefox
+-20	./private/var/db/receipts
+-35	./Applications/Docker.app/Contents/Resources/cli-plugins
+-36	./System/Volumes/Data/Applications/Docker.app
+-36	./Library/Application Support/Foxit Software/FoxitService
+-111	./private/var/log/asl
+-152	./Applications/Slack.app/Contents/Frameworks/Electron Framework.framework
+-172	./System/Volumes/Data/Applications/Slack.app
+
+
+-----------------------------
+Total size increased (MB): 15000
+-----------------------------
