@@ -1,5 +1,6 @@
 # Functionality
-- Track disk usage over time on Mac.
+
+Track disk usage over time on Mac.
 
 # How it works
 1. `disk-usage-depth-05.sh` uses `du` command to get the disk usage statistics, and then write these statistics to a file with a name like "2017-02-21-disk-usage.tsv".
@@ -12,7 +13,9 @@
 4. Run `python compare-changes.py`.
 
 # Testing
-- Only tested on **OS X Yosemite 10.10.5** and **Python 2.7.13**.
+
+Only tested with **OS version 10.10.5, 11.4 (M1 chip)** and **Python 2.7.13**.
 
 # Copyright
-- Please feel free to copy and modify the code.
+
+Please feel free to copy and modify the code.
