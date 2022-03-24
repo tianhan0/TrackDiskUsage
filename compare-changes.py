@@ -9,8 +9,8 @@ def main(argv):
 			file_list.append(file)
 
 	file_list.sort()
-	tsvin1 = csv.reader(open(file_list[len(file_list) - 2],'rb'), delimiter='\t') # old
-	tsvin2 = csv.reader(open(file_list[len(file_list) - 1],'rb'), delimiter='\t') # new
+	tsvin1 = csv.reader(open(file_list[len(file_list) - 2],'rt'), delimiter='\t') # old
+	tsvin2 = csv.reader(open(file_list[len(file_list) - 1],'rt'), delimiter='\t') # new
 	
 	list1 = []
 	list2 = []
@@ -47,17 +47,17 @@ def main(argv):
 	for (i, num) in sorted(enumerate(output_size), key = lambda x:x[1], reverse = True):
 		if not is_substring(output_name[i], output_name):
 			if output_size[i] > 0:
-				print "%s%d	%s" % ("+", output_size[i], output_name[i])
+				print("%s%d	%s" % ("+", output_size[i], output_name[i]))
 			elif output_size[i] < 0:
-				print "%d	%s" % (output_size[i], output_name[i])
+				print("%d	%s" % (output_size[i], output_name[i]))
 			total_size_growed += output_size[i]
 
-	print "\n\n-----------------------------"
+	print("\n\n-----------------------------")
 	if total_size_growed > 0:
-		print "Total size increased (MB): %d" % total_size_growed
+		print("Total size increased (MB): %d" % total_size_growed)
 	else:
-		print "Total size decreased (MB): %d" % -total_size_growed
-	print "-----------------------------"
+		print("Total size decreased (MB): %d" % -total_size_growed)
+	print("-----------------------------")
 
 def is_substring(s, str_list):
 	for sp in str_list:

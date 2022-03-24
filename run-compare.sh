@@ -1,4 +1,4 @@
 now="$(date +'%Y-%m-%d')"
 
-python compare-changes.py
-python compare-changes.py > "$now-changes.txt"
+python3 compare-changes.py
+python3 compare-changes.py > "$now-changes.txt"
