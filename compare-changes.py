@@ -1,69 +1,78 @@
 import csv
 import sys
 import os
+import pprint
 
-def main(argv):
-	file_list = []
-	for file in os.listdir(os.getcwd()):
-		if file.endswith(".tsv"):
-			file_list.append(file)
 
-	file_list.sort()
-	tsvin1 = csv.reader(open(file_list[len(file_list) - 2],'rt'), delimiter='\t') # old
-	tsvin2 = csv.reader(open(file_list[len(file_list) - 1],'rt'), delimiter='\t') # new
-	
-	list1 = []
-	list2 = []
-	
-	for row1 in tsvin1:
-		name1 = row1[1]
-		size1 = int(row1[0])
-		list1.append((name1, size1))
-	
-	for row2 in tsvin2:
-		name2 = row2[1]
-		size2 = int(row2[0])
-		list2.append((name2, size2))
-		
-	output_size = []
-	output_name = []
-	for (name1, size1) in list1:
-		for (name2, size2) in list2:
-			if name1 == name2:
-				size_change = size2 - size1
-				if size_change != 0:
-					# print "%d	%s" % (size_change, name1)
-					output_size.append(size_change)
-					output_name.append(name1)
+def size_dictionary(sizes):
+    size_map = {}
+    for row in sizes:
+        directory_or_file = row[1]
+        size = int(row[0])
+        size_map[directory_or_file] = size
+    return size_map
 
-	for (name2, size2) in list2:
-		if not (name2, size2) in list1:
-			if not name2 in output_name:
-				output_size.append(size2)
-				output_name.append(name2)
-	
-	total_size_growed = 0
 
-	for (i, num) in sorted(enumerate(output_size), key = lambda x:x[1], reverse = True):
-		if not is_substring(output_name[i], output_name):
-			if output_size[i] > 0:
-				print("%s%d	%s" % ("+", output_size[i], output_name[i]))
-			elif output_size[i] < 0:
-				print("%d	%s" % (output_size[i], output_name[i]))
-			total_size_growed += output_size[i]
+def print_results(old_sizes, new_sizes):
+    directories = set(old_sizes.keys()).union(new_sizes.keys())
+    size_change_map = {}
+    for directory in directories:
+        if directory in old_sizes and directory in new_sizes:
+            # size has changed
+            size_change = new_sizes[directory] - old_sizes[directory]
+            if size_change != 0:
+                size_change_map[directory] = size_change
+        elif directory in old_sizes and (not (directory in new_sizes)):
+            # deleted
+            size_change_map[directory] = -old_sizes[directory]
+        elif (not (directory in old_sizes)) and directory in new_sizes:
+            # introduced
+            size_change_map[directory] = new_sizes[directory]
+        else:
+            raise AssertionError("unreachable")
+    pp = pprint.PrettyPrinter(indent=2)
+    # pp.pprint(size_change_map)
 
-	print("\n\n-----------------------------")
-	if total_size_growed > 0:
-		print("Total size increased (MB): %d" % total_size_growed)
-	else:
-		print("Total size decreased (MB): %d" % -total_size_growed)
-	print("-----------------------------")
+    sorted_map = {
+        k: v
+        for k, v in sorted(
+            size_change_map.items(), key=lambda item: item[1], reverse=True
+        )
+    }
+    # pp.pprint(sorted_map)
 
-def is_substring(s, str_list):
-	for sp in str_list:
-		if (s in sp) and (s != sp):
-			return True
-	return False
+    for (directory, size) in sorted_map.items():
+        if size >= 0:
+            size_string = f"+{size}"
+        else:
+            size_string = f"{size}"
+        print(f"{size_string} {directory}")
+
+    root_size_change = size_change_map["."]
+    if root_size_change != 0:
+        print("\n\n-----------------------------")
+        print(f"Total size change: {root_size_change} MB")
+        print("-----------------------------")
+
+
+def run(argv):
+    file_list = []
+    for file in os.listdir(os.getcwd()):
+        if file.endswith(".tsv"):
+            file_list.append(file)
+
+    file_list.sort()
+    old_size_file = file_list[len(file_list) - 2]
+    new_size_file = file_list[len(file_list) - 1]
+    print(f"Read old sizes from {old_size_file}")
+    print(f"Read new sizes from {new_size_file}")
+    tsvin1 = csv.reader(open(old_size_file, "rt"), delimiter="\t")  # old
+    tsvin2 = csv.reader(open(new_size_file, "rt"), delimiter="\t")  # new
+
+    old_sizes = size_dictionary(tsvin1)
+    new_sizes = size_dictionary(tsvin2)
+    print_results(old_sizes=old_sizes, new_sizes=new_sizes)
+
 
 if __name__ == "__main__":
-   main(sys.argv[1:])
+    run(sys.argv[1:])

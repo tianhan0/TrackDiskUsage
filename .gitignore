@@ -1,2 +1,4 @@
 *.tsv
 *.txt
+.DS_Store
+*.old
