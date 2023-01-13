@@ -42,6 +42,8 @@ def print_results(old_sizes, new_sizes):
     # pp.pprint(sorted_map)
 
     for (directory, size) in sorted_map.items():
+        if abs(size) <= 100:
+          continue
         if size >= 0:
             size_string = f"+{size}"
         else:
